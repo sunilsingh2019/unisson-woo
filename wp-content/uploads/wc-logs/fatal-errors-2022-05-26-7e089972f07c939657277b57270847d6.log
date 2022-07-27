@@ -1,0 +1,246 @@
+2022-05-26T02:23:13+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:77
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 77
+
+2022-05-26T04:43:47+00:00 CRITICAL Uncaught Error: Call to a member function update_meta_data() on bool in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/yith-woocommerce-deposits-and-down-payments-premium/includes/class-yith-wcdp-admin-premium.php:650
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): YITH_WCDP_Admin_Premium->save_variation_deposits_settings(480, 1)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(563): do_action('woocommerce_sav...', 480, 1)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(2213): WC_Meta_Box_Product_Data::save_variations(429, Object(WP_Post))
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-h in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/yith-woocommerce-deposits-and-down-payments-premium/includes/class-yith-wcdp-admin-premium.php on line 650
+
+2022-05-26T04:43:47+00:00 CRITICAL Uncaught Error: Call to a member function update_meta_data() on bool in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/yith-woocommerce-deposits-and-down-payments-premium/includes/class-yith-wcdp-admin-premium.php:650
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): YITH_WCDP_Admin_Premium->save_variation_deposits_settings(480, 1)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php(563): do_action('woocommerce_sav...', 480, 1)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(2213): WC_Meta_Box_Product_Data::save_variations(429, Object(WP_Post))
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-h in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/yith-woocommerce-deposits-and-down-payments-premium/includes/class-yith-wcdp-admin-premium.php on line 650
+
+2022-05-26T05:22:45+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php:25
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1628): wc_get_template('single-product/...')
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): woocommerce_template_single_price('')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php(115): do_action('woocommerce_sin...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/ in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php on line 25
+
+2022-05-26T05:22:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php:25
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1628): wc_get_template('single-product/...')
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): woocommerce_template_single_price('')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php(115): do_action('woocommerce_sin...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/ in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php on line 25
+
+2022-05-26T05:22:57+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php:25
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1628): wc_get_template('single-product/...')
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): woocommerce_template_single_price('')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php(115): do_action('woocommerce_sin...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/ in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product/price.php on line 25
+
+2022-05-26T09:30:03+00:00 CRITICAL Uncaught Error: Call to undefined function dd_filter() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:336
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-settings.php(555): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-config.php(99): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/wp-load.php(50): require_once('/Users/sunil/Si...')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(13): require_once('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#5 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 336
+
+2022-05-26T22:42:15+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 410
+
+2022-05-26T22:44:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:118
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 118
+
+2022-05-26T22:45:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:117
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 117
+
+2022-05-26T22:45:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:117
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 117
+
+2022-05-26T22:46:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:117
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 117
+
+2022-05-26T22:48:50+00:00 CRITICAL Uncaught Error: Call to undefined function onlytext() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:104
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 104
+
+2022-05-26T22:49:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:190
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 190
+
+2022-05-26T23:02:31+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:141
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 141
+
+2022-05-26T23:03:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:141
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 141
+
+2022-05-26T23:03:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:141
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 141
+
+2022-05-26T23:06:28+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:128
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 128
+
+2022-05-26T23:06:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:128
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 128
+
+2022-05-26T23:23:36+00:00 CRITICAL Uncaught Error: Call to undefined function onlytext() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:125
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 125
+
+2022-05-26T23:24:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:133
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 133
+
+2022-05-26T23:32:29+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:123
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 123
+
+2022-05-26T23:33:22+00:00 CRITICAL Uncaught Error: Call to a member function get_permalink() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:121
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 121
+
+2022-05-26T23:43:56+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on int in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1675
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): woocommerce_template_single_add_to_cart('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php(119): do_action('woocommerce_sin...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#6 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/ in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 1675
+

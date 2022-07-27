@@ -1,0 +1,119 @@
+.customaccord {
+    margin: 45px 0 0;
+
+    &--item {
+
+        &-header {
+            position: relative;
+            padding: 18px 0;
+            border-top: 1px solid $color-black-light;
+            cursor: pointer;
+            @include unselect;
+
+            &::before,
+            &::after {
+                content: "";
+                position: absolute;
+                top: 50%;
+                right: 13px;
+                transform: translateY(-50%);
+                width: 13px;
+                height: 3px;
+                background-color: $color-orange;
+                transform-origin: center;
+                transition: all .3s ease-out;
+            }
+
+            &::after {
+                transform: translateY(-25%) rotate(90deg);
+            }
+
+            h2 {
+                font-size: 2.8rem;
+                font-weight: 700;
+                margin-bottom: 0;
+
+                @media (max-width: 991px) {
+                    font-size: 1.8rem;
+                }
+
+                span {
+                    color: $color-orange;
+                }
+            }
+        }
+
+        &.active {
+            .customaccord--item-header {
+                &::after {
+                    transform: translateY(-25%) rotate(0deg);
+                }
+            }
+        }
+
+        &-body {
+            padding: 12px 0 60px;
+
+            h4,
+            p,
+            ul li {
+                color: $color-black;
+                font-size: 1.8rem;
+
+                @media (max-width: 991px) {
+                    font-size: 1.6rem;
+                }
+
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+
+            p,
+            ul {
+                margin-bottom: 25px;
+            }
+
+            h4 {
+                font-weight: 700;
+                margin-bottom: 0;
+                text-transform: uppercase;
+            }
+
+            ul {
+                list-style-type: disc;
+                padding-left: 18px;
+
+                li {
+                    padding-left: 0;
+                }
+            }
+        }
+
+        &:not(.active) {
+            .customaccord--item-body {
+                display: none;
+            }
+        }
+    }
+
+    .media {
+        border-radius: 9px;
+        overflow: hidden;
+        margin-bottom: 38px;
+
+        img {
+            @include imgfit;
+        }
+    }
+
+    .row {
+        margin-left: -19px;
+        margin-right: -19px;
+    }
+
+    [class^="col-"] {
+        padding-left: 19px;
+        padding-right: 19px;
+    }
+}

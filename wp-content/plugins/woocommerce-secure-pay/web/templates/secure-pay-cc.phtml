@@ -1,0 +1,137 @@
+<?php
+/**
+ * SecurePay Api form
+ *
+ * @package Securepayapi
+ */
+
+/**
+ * Variables
+ *
+ * @var array $paymentInstruments Payment Instrument list.
+ * @var WC_Secure_Pay $this       Plugin Object.
+ */
+
+if ( ! wp_script_is( 'jquery' ) ) {
+	wp_enqueue_script( 'jquery' );
+}
+?>
+<fieldset id="wc-fgc_secure_pay-cc-form" class="wc-credit-card-form wc-payment-form" style="display: block;">
+    <div style="position: relative">
+        <div class="loader" style="display: none"></div>
+        <div id="securepay-ui-container"></div>
+        <script id="securepay-ui-js"
+                src="<?php echo esc_url(
+					$this->test_mode ? Secure_Pay::URL_SANDBOX_SCRIPT : Secure_Pay::URL_LIVE_SCRIPT
+				); ?>"></script>
+        <input type="hidden" hidden id="secure-pay-token" name="securePayToken" style="display: none">
+        <input type="hidden" hidden style="display: none"
+               name="<?php echo esc_html( $this::SECUREPAYAPI_NONCE ); ?>"
+               value="<?php echo esc_html( wp_create_nonce( $this::SECUREPAYAPI_NONCE ) ); ?>">
+        <div id="transaction-error" class="woocommerce-error" style="display: none">
+            Error occurs in tokenisation process, please double check card numbers and try again.
+        </div>
+    </div>
+</fieldset>
+<script>
+    jQuery(function ($) {
+        $(document).ready(function () {
+            $('form.checkout').on('checkout_place_order', function () {
+                let payment_method = $('input[name="payment_method"]:checked').val();
+                let selected_type = $('input[name=wc-<?php echo esc_html(
+					$this->id
+				); ?>-payment-token]:checked').val();
+                if (payment_method === '<?php echo esc_html(
+					$this->id
+				); ?>' && (selected_type === undefined || selected_type === 'new') && !$("#secure-pay-token").val()) {
+                    tokenise();
+                    return false;
+                }
+                return true;
+            });
+
+            $('form#add_payment_method').on('submit', function () {
+                let payment_method = $('input[name="payment_method"]:checked').val();
+                if (payment_method === '<?php echo esc_html( $this->id ); ?>' && !$("#secure-pay-token").val()) {
+                    tokenise();
+                    return false;
+                }
+                return true;
+            });
+
+            function tokenise() {
+                $('.blockOverlay').css('display', 'none');
+                try {
+                    $('.loader').css('display', 'block');
+                    mySecurePayUI.tokenise();
+                } catch (e) {
+                    $('.loader').css('display', 'none');
+                }
+            }
+
+            var mySecurePayUI = null;
+
+            function initSecurepayUi() {
+                if (mySecurePayUI !== null) {
+                    return;
+                }
+                if ($('#securepay-ui-container:visible').length <= 0) {
+                    return;
+                }
+                $('.loader').css('display', 'block');
+                $('#securepay-ui-container').empty();
+                try {
+                    mySecurePayUI = new securePayUI.init({
+                        containerId: "securepay-ui-container",
+                        scriptId: "securepay-ui-js",
+                        clientId: "<?php echo esc_html( $this->client_id ); ?>",
+                        merchantCode: "<?php echo esc_html( $this->merchant_code ); ?>",
+                        card: {
+                            allowedCardTypes: <?php echo wp_json_encode( $this->allowed_card_types ); ?>,
+                            onTokeniseSuccess: function (tokenisedCard) {
+                                let securePayToken = $("#secure-pay-token");
+                                securePayToken.val(tokenisedCard['token']);
+                                $('form.checkout').submit();
+                                $('form#add_payment_method').submit();
+                                $('.loader').css('display', 'none');
+                                securePayToken.val('');
+                            },
+                            onTokeniseError: function (errors) {
+                                $('#transaction-error').fadeIn("slow");
+                                setTimeout(function () {
+                                    $('#transaction-error').fadeOut("slow");
+                                }, 5000);
+                                $('.loader').css('display', 'none');
+                                $('.blockOverlay').css('display', 'none');
+                            },
+                            showCardIcons: true
+                        },
+                        style: {
+                            backgroundColor: '#fafafa',
+                            label: {
+                                font: {
+                                    family: '"Source Sans Pro",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif',
+                                    color: '#6d6d6d'
+                                }
+                            },
+                            input: {
+                                font: {
+                                    family: '"Source Sans Pro",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif',
+                                    color: '#6d6d6d'
+                                }
+                            }
+                        },
+                        onLoadComplete: function () {
+                            $('.loader').css('display', 'none');
+                            $(document).off('select click mousedown mouseup dblclick etc', false);
+                        }
+                    });
+                } catch (e) {
+                    console.log(e);
+                }
+                clearInterval(initPolling);
+            }
+            var initPolling = setInterval(initSecurepayUi, 200);
+        });
+    });
+</script>

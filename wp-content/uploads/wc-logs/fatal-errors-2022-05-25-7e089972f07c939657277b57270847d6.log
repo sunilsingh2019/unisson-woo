@@ -1,0 +1,153 @@
+2022-05-25T02:39:33+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:39:36+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:39:40+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:40:03+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:41:50+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:41:56+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:42:03+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:43:08+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:43:30+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T02:43:38+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T03:05:17+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T03:30:17+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T03:30:25+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T03:42:53+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T04:51:21+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T10:57:27+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+
+2022-05-25T10:57:41+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1398): WC_Cart_Totals->__construct(Object(YITH_WCDP_Support_Cart))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(305): WC_Cart->calculate_totals()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(N in /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php on line 225
+

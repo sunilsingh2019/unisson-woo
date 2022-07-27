@@ -1,0 +1,200 @@
+0000000000000000000000000000000000000000 b0249d8883ce1df35b1c936bd88b2068f143f3a2 Sunil Singh <sunilsingh2019@gmail.com> 1651633318 +1000	commit (initial): wordpress core
+b0249d8883ce1df35b1c936bd88b2068f143f3a2 bf6f45cd98a1473db46a1c487357aa22dc693285 Sunil Singh <sunilsingh2019@gmail.com> 1651634534 +1000	commit: storefront theme installed
+bf6f45cd98a1473db46a1c487357aa22dc693285 a2f69a2d753daf5cebcea4e1a1b2963d88c7d241 Sunil Singh <sunilsingh2019@gmail.com> 1651636201 +1000	commit: settings up child theme woocommerce
+a2f69a2d753daf5cebcea4e1a1b2963d88c7d241 cadf3acdc6f58d5d9d1fc4cacb177fb2a1948a87 Sunil Singh <sunilsingh2019@gmail.com> 1651640138 +1000	pull origin master: Merge made by the 'recursive' strategy.
+cadf3acdc6f58d5d9d1fc4cacb177fb2a1948a87 b35317cbf659bbf64265a6f0a0b9c915491f8efe Sunil Singh <sunilsingh2019@gmail.com> 1652248205 +1000	commit: checkout functionality
+b35317cbf659bbf64265a6f0a0b9c915491f8efe e5eeb6ede1ac6a68c290ebc7bd11c105559f4fb0 Sunil Singh <sunilsingh2019@gmail.com> 1652249590 +1000	pull origin master: Fast-forward
+e5eeb6ede1ac6a68c290ebc7bd11c105559f4fb0 1dd658799d5f7a266969762d91a61de57894e071 Sunil Singh <sunilsingh2019@gmail.com> 1652668548 +1000	commit: uat
+1dd658799d5f7a266969762d91a61de57894e071 c79fa42a6b85e8863e8a30eb5a9f73a883ef9ab0 Sunil Singh <sunilsingh2019@gmail.com> 1652670582 +1000	commit: code removed
+c79fa42a6b85e8863e8a30eb5a9f73a883ef9ab0 91bc747572d5ef678467ac9349d4c217489ab5c3 Sunil Singh <sunilsingh2019@gmail.com> 1652670768 +1000	commit: function
+91bc747572d5ef678467ac9349d4c217489ab5c3 468099d37022f17ae79892dd6459706d4c9237b5 Sunil Singh <sunilsingh2019@gmail.com> 1652670822 +1000	commit: remvoed function
+468099d37022f17ae79892dd6459706d4c9237b5 1b9cf58960cdbcd7607a6bc6cd51820c2a6a6cf4 Sunil Singh <sunilsingh2019@gmail.com> 1652670874 +1000	commit: error
+1b9cf58960cdbcd7607a6bc6cd51820c2a6a6cf4 f930c750fb328bf7eb287e25edec0067548a68ee Sunil Singh <sunilsingh2019@gmail.com> 1652671970 +1000	commit: important message
+f930c750fb328bf7eb287e25edec0067548a68ee 1affb6c857003e57bbb04fa20903317496c21da6 Sunil Singh <sunilsingh2019@gmail.com> 1652672566 +1000	commit: message
+1affb6c857003e57bbb04fa20903317496c21da6 b549721f774df1d4305816bbc9e30a0b0826affc Sunil Singh <sunilsingh2019@gmail.com> 1652673670 +1000	commit: yith down payment
+b549721f774df1d4305816bbc9e30a0b0826affc c311b942ce34df061333982b6d316dbd404d67fa Sunil Singh <sunilsingh2019@gmail.com> 1652674531 +1000	commit: file management
+c311b942ce34df061333982b6d316dbd404d67fa b85018cedaa1f778be52a7cf44e2cf40e9ad4ee0 Sunil Singh <sunilsingh2019@gmail.com> 1652674783 +1000	commit: sku in email
+b85018cedaa1f778be52a7cf44e2cf40e9ad4ee0 6e5c9a00260969fa82518a454b6de80eb57e8d62 Sunil Singh <sunilsingh2019@gmail.com> 1652678346 +1000	commit: remove price
+6e5c9a00260969fa82518a454b6de80eb57e8d62 c7a0c1c45cacd2c2cfa3e4c2191905db000a979f Sunil Singh <sunilsingh2019@gmail.com> 1652678657 +1000	commit: variation description
+c7a0c1c45cacd2c2cfa3e4c2191905db000a979f d54f4d7157e297c94aef1b0b90054cd681d849d6 Sunil Singh <sunilsingh2019@gmail.com> 1652680270 +1000	commit: no message
+d54f4d7157e297c94aef1b0b90054cd681d849d6 0aa8221d7b171d2b9fd98a8d3a188065e0df85db Sunil Singh <sunilsingh2019@gmail.com> 1652743165 +1000	commit: function
+0aa8221d7b171d2b9fd98a8d3a188065e0df85db e78266988d2deaa3231a66aa686d8f2e3fe27f63 Sunil Singh <sunilsingh2019@gmail.com> 1652744164 +1000	commit: email template
+e78266988d2deaa3231a66aa686d8f2e3fe27f63 19bf29a093e78027dcb7fbf351483ed814f2ef39 Sunil Singh <sunilsingh2019@gmail.com> 1652852391 +1000	commit: header part
+19bf29a093e78027dcb7fbf351483ed814f2ef39 3a9f993b9b1296b0abd3a46b9598b564d4715e80 Sunil Singh <sunilsingh2019@gmail.com> 1652856323 +1000	commit: acf json
+3a9f993b9b1296b0abd3a46b9598b564d4715e80 fd7f09c4db599e59ba79e3b5e942a8cb60cbf3d0 Sunil Singh <sunilsingh2019@gmail.com> 1653443490 +1000	commit: uni
+fd7f09c4db599e59ba79e3b5e942a8cb60cbf3d0 a582916d5198cb1f0f6c9dc1b430267e4bb5ed42 Sunil Singh <sunilsingh2019@gmail.com> 1653447250 +1000	commit: price
+a582916d5198cb1f0f6c9dc1b430267e4bb5ed42 3d1927eb06e88ad6049ca16b51037c42bb888b2c Sunil Singh <sunilsingh2019@gmail.com> 1653449679 +1000	commit: code change
+3d1927eb06e88ad6049ca16b51037c42bb888b2c 298c95873d96140dce4e767093b31c91bdd182fb Sunil Singh <sunilsingh2019@gmail.com> 1653450039 +1000	commit: disable
+298c95873d96140dce4e767093b31c91bdd182fb 80393e45ede9c665eee993e59b85f48b90ad7d0f Sunil Singh <sunilsingh2019@gmail.com> 1653450137 +1000	commit: checkout
+80393e45ede9c665eee993e59b85f48b90ad7d0f 917c991913eb857b1a2175207da58ca82086159e Sunil Singh <sunilsingh2019@gmail.com> 1653456314 +1000	commit: function
+917c991913eb857b1a2175207da58ca82086159e 2909075bb2f7ca0e74645d81d21635be9bfbf46e Sunil Singh <sunilsingh2019@gmail.com> 1653630829 +1000	commit: checkout
+2909075bb2f7ca0e74645d81d21635be9bfbf46e d4c2232a10c2af8e117bea4307d094122748a81c Sunil Singh <sunilsingh2019@gmail.com> 1654054050 +1000	commit: checkout attendee details
+d4c2232a10c2af8e117bea4307d094122748a81c a5707ab58eacd052557d3d5da4230b174393e079 Sunil Singh <sunilsingh2019@gmail.com> 1654138365 +1000	commit: checkout field
+a5707ab58eacd052557d3d5da4230b174393e079 8e41006b28f8cf4db7c2a41b0c04964e71641fbc Sunil Singh <sunilsingh2019@gmail.com> 1654214464 +1000	commit: funding type
+8e41006b28f8cf4db7c2a41b0c04964e71641fbc dc542b9734778cafc0ec5c9b77752a938d09ba7e Sunil Singh <sunilsingh2019@gmail.com> 1654215920 +1000	commit: css checkout page
+dc542b9734778cafc0ec5c9b77752a938d09ba7e 544f34878961be2b75c9ae69037b6324e7b57cee Sunil Singh <sunilsingh2019@gmail.com> 1654222591 +1000	commit: page title
+544f34878961be2b75c9ae69037b6324e7b57cee e563997aa5116ed71059009ad2e43c5558b1cbe6 Sunil Singh <sunilsingh2019@gmail.com> 1654223104 +1000	commit: minor bug checkout page
+e563997aa5116ed71059009ad2e43c5558b1cbe6 b6d16c2a1a70f63183835fd954be18ce1a838ac6 Sunil Singh <sunilsingh2019@gmail.com> 1654224077 +1000	commit: attendee print in email
+b6d16c2a1a70f63183835fd954be18ce1a838ac6 a2d3f44a122a5ea7a8a11ed18d4c71918ceaebe2 Sunil Singh <sunilsingh2019@gmail.com> 1654224598 +1000	commit: attendee detials
+a2d3f44a122a5ea7a8a11ed18d4c71918ceaebe2 1748b6af6a136ea40365b65adcc0b417f60219e8 Sunil Singh <sunilsingh2019@gmail.com> 1654224964 +1000	commit: no message
+1748b6af6a136ea40365b65adcc0b417f60219e8 5b15515ee1b46c09fb5b5e9d0b8d0f8ed7da1015 Sunil Singh <sunilsingh2019@gmail.com> 1654225145 +1000	commit: no message
+5b15515ee1b46c09fb5b5e9d0b8d0f8ed7da1015 3d58aa7a0faed1ae6d38eb5b68e1351bcdd73a7e Sunil Singh <sunilsingh2019@gmail.com> 1654225346 +1000	commit: no message
+3d58aa7a0faed1ae6d38eb5b68e1351bcdd73a7e 6bc084c62e3b8542d8f48ccd5cd40571ae7bf820 Sunil Singh <sunilsingh2019@gmail.com> 1654225494 +1000	commit: no message
+6bc084c62e3b8542d8f48ccd5cd40571ae7bf820 befd98e2857bf998b2af7557c9dbffdbbb5e7e70 Sunil Singh <sunilsingh2019@gmail.com> 1654225610 +1000	commit: no message
+befd98e2857bf998b2af7557c9dbffdbbb5e7e70 23f98462281ff4607c0454497c50ad9f7a74c42d Sunil Singh <sunilsingh2019@gmail.com> 1654225731 +1000	commit: no message
+23f98462281ff4607c0454497c50ad9f7a74c42d 7366cb3e21d7c55bf024aed5f2d316e968e8885e Sunil Singh <sunilsingh2019@gmail.com> 1654236051 +1000	commit: attendee save in admin order
+7366cb3e21d7c55bf024aed5f2d316e968e8885e 7b8da6d8fd557779b28012a46cb41e6a08907f05 Sunil Singh <sunilsingh2019@gmail.com> 1654236366 +1000	commit: change value
+7b8da6d8fd557779b28012a46cb41e6a08907f05 c3bb23c33e9ff2664613983ef91b1892aa54a73a Sunil Singh <sunilsingh2019@gmail.com> 1654236667 +1000	commit: no message
+c3bb23c33e9ff2664613983ef91b1892aa54a73a 751c4b80b8cd5b160d261d1b067edf89681bb976 Sunil Singh <sunilsingh2019@gmail.com> 1654557974 +1000	commit: translate
+751c4b80b8cd5b160d261d1b067edf89681bb976 023dd17b9daf652a9713d173670ef9bd669e66bb Sunil Singh <sunilsingh2019@gmail.com> 1654558004 +1000	commit: translate
+023dd17b9daf652a9713d173670ef9bd669e66bb 9156fb46e25b7409d282999755b385d1e53638bd Sunil Singh <sunilsingh2019@gmail.com> 1654558264 +1000	commit: save in email
+9156fb46e25b7409d282999755b385d1e53638bd 3e7e8159e1082f6e2b38d2ce22acc07e2cdc6ec0 Sunil Singh <sunilsingh2019@gmail.com> 1654558475 +1000	commit: attende save in mail
+3e7e8159e1082f6e2b38d2ce22acc07e2cdc6ec0 f3a6100bcaecd2ca72b6bf60e35fd7b320b47a6f Sunil Singh <sunilsingh2019@gmail.com> 1654558601 +1000	commit: cart count
+f3a6100bcaecd2ca72b6bf60e35fd7b320b47a6f e46bab9702976c050617ac461d7a88ef5d8c99cc Sunil Singh <sunilsingh2019@gmail.com> 1654558885 +1000	commit: attendee
+e46bab9702976c050617ac461d7a88ef5d8c99cc a84c2135192c870bc784df168cea4f3f59ba4c1d Sunil Singh <sunilsingh2019@gmail.com> 1654559350 +1000	commit: email save
+a84c2135192c870bc784df168cea4f3f59ba4c1d 2f8e40efdf788859f494681f495bb16bfdf4689a Sunil Singh <sunilsingh2019@gmail.com> 1654559456 +1000	commit: save to email
+2f8e40efdf788859f494681f495bb16bfdf4689a 8f10fe1e6702b3b3fb1c10f1aaa300eca5ed649f Sunil Singh <sunilsingh2019@gmail.com> 1654559732 +1000	commit: save email
+8f10fe1e6702b3b3fb1c10f1aaa300eca5ed649f c7614df62a633f589371aacce58d9cd496445dc6 Sunil Singh <sunilsingh2019@gmail.com> 1654559905 +1000	commit: fundding type
+c7614df62a633f589371aacce58d9cd496445dc6 816dc76362ca3afc31911325c14e45db58c81195 Sunil Singh <sunilsingh2019@gmail.com> 1654560024 +1000	commit: no message
+816dc76362ca3afc31911325c14e45db58c81195 896d68611d79852cc0698372d4e2f9906f245031 Sunil Singh <sunilsingh2019@gmail.com> 1654560420 +1000	commit: no message
+896d68611d79852cc0698372d4e2f9906f245031 a7ae3e5a50b6205e897466c1424b95f5cadebd07 Sunil Singh <sunilsingh2019@gmail.com> 1654560608 +1000	commit: no message
+a7ae3e5a50b6205e897466c1424b95f5cadebd07 49ed817d0deb698438c44ce62bd8482dc6a446c3 Sunil Singh <sunilsingh2019@gmail.com> 1654560705 +1000	commit: no message
+49ed817d0deb698438c44ce62bd8482dc6a446c3 4e6626a52ae5c2002bb613c9dc6cd19df88d06c5 Sunil Singh <sunilsingh2019@gmail.com> 1654560977 +1000	commit: no message
+4e6626a52ae5c2002bb613c9dc6cd19df88d06c5 74be4b724bde17a4cc77620fcc7ea1e46daaba95 Sunil Singh <sunilsingh2019@gmail.com> 1654561481 +1000	commit: no message
+74be4b724bde17a4cc77620fcc7ea1e46daaba95 5a8e0d3b048f77e25fa3a16576be4468a5380d9b Sunil Singh <sunilsingh2019@gmail.com> 1654561608 +1000	commit: no message
+5a8e0d3b048f77e25fa3a16576be4468a5380d9b 5c1a9273396b3e55ec69c20c01deee4b00a6e747 Sunil Singh <sunilsingh2019@gmail.com> 1654562123 +1000	commit: no message
+5c1a9273396b3e55ec69c20c01deee4b00a6e747 0f08ae7391d95393c57f2a0093b1df715c6bff8a Sunil Singh <sunilsingh2019@gmail.com> 1654562490 +1000	commit: no message
+0f08ae7391d95393c57f2a0093b1df715c6bff8a 7a602636bdad806eea0285110ea44adf9e59bd3e Sunil Singh <sunilsingh2019@gmail.com> 1654562729 +1000	commit: no message
+7a602636bdad806eea0285110ea44adf9e59bd3e b23b9c9b9d81301a9d8603cd54941c8e3272f56e Sunil Singh <sunilsingh2019@gmail.com> 1654563990 +1000	commit: loop in save email
+b23b9c9b9d81301a9d8603cd54941c8e3272f56e 59445489db19c692c2bbda9aa18b2cfe4021284d Sunil Singh <sunilsingh2019@gmail.com> 1654564208 +1000	commit: no message
+59445489db19c692c2bbda9aa18b2cfe4021284d affcce0fb71a47926d8a15f1ef155f0646540ee5 Sunil Singh <sunilsingh2019@gmail.com> 1654564916 +1000	commit: no message
+affcce0fb71a47926d8a15f1ef155f0646540ee5 f6813918fc55b031058227e6f4806b3c850a8168 Sunil Singh <sunilsingh2019@gmail.com> 1654564973 +1000	commit: no message
+f6813918fc55b031058227e6f4806b3c850a8168 c8286bde98ab45ed4458a4f2381ebf76c114bfcd Sunil Singh <sunilsingh2019@gmail.com> 1654565203 +1000	commit: no message
+c8286bde98ab45ed4458a4f2381ebf76c114bfcd d3a16e56d5286a39f1fee331e09321b2e1d621dc Sunil Singh <sunilsingh2019@gmail.com> 1654568519 +1000	commit: save email
+d3a16e56d5286a39f1fee331e09321b2e1d621dc 8fd885bc7f6a44569010ca82340e2e0f25862e4d Sunil Singh <sunilsingh2019@gmail.com> 1654568919 +1000	commit: test
+8fd885bc7f6a44569010ca82340e2e0f25862e4d 403a6b1fe0ef8ad1e5212a4cac5c2c2f10cc9250 Sunil Singh <sunilsingh2019@gmail.com> 1654569098 +1000	commit: no message
+403a6b1fe0ef8ad1e5212a4cac5c2c2f10cc9250 5b57140ce556f50eab8cb6a1badb705d2e9aa9c7 Sunil Singh <sunilsingh2019@gmail.com> 1654569255 +1000	commit: no message
+5b57140ce556f50eab8cb6a1badb705d2e9aa9c7 1bdb77e553208960acb61249bbb4945265ce0e14 Sunil Singh <sunilsingh2019@gmail.com> 1654569616 +1000	commit: no message
+1bdb77e553208960acb61249bbb4945265ce0e14 ab757ef8420bf9c24b00070470f7f0a59c5644d9 Sunil Singh <sunilsingh2019@gmail.com> 1654569821 +1000	commit: no message
+ab757ef8420bf9c24b00070470f7f0a59c5644d9 0bd9c58f5178783a5f50f99aa5baaef236b47d42 Sunil Singh <sunilsingh2019@gmail.com> 1654570018 +1000	commit: no message
+0bd9c58f5178783a5f50f99aa5baaef236b47d42 4a1ae1d2b62cad59b1dc570a956bd0b85dd50bc9 Sunil Singh <sunilsingh2019@gmail.com> 1654570735 +1000	commit: no message
+4a1ae1d2b62cad59b1dc570a956bd0b85dd50bc9 9eeb51f4b2cd43255b4caf30c95f2d0489fcb077 Sunil Singh <sunilsingh2019@gmail.com> 1654570788 +1000	commit: no message
+9eeb51f4b2cd43255b4caf30c95f2d0489fcb077 8176fafc61cbe2edab6e0db2dee5f31adbe58cfd Sunil Singh <sunilsingh2019@gmail.com> 1654570976 +1000	commit: no message
+8176fafc61cbe2edab6e0db2dee5f31adbe58cfd c6746306a9fa0a5e0b2cf62bc018c28d0050f067 Sunil Singh <sunilsingh2019@gmail.com> 1654571293 +1000	commit: email save
+c6746306a9fa0a5e0b2cf62bc018c28d0050f067 ec70f780d3aeb4d59da2c58dca4616788776b8ad Sunil Singh <sunilsingh2019@gmail.com> 1654581183 +1000	commit: Tax calculation
+ec70f780d3aeb4d59da2c58dca4616788776b8ad f07c9822598faa3472df5d4a79053abc50456002 Sunil Singh <sunilsingh2019@gmail.com> 1654675688 +1000	commit: error 404, legal page , free text module, location term in cart search page
+f07c9822598faa3472df5d4a79053abc50456002 4889d2bf0880a7a406fe460f01c28e14da4a6330 Sunil Singh <sunilsingh2019@gmail.com> 1654830242 +1000	commit: email notification fixed
+4889d2bf0880a7a406fe460f01c28e14da4a6330 1118bc3de1c1172c614653ae04aad3ea8d0bae44 Sunil Singh <sunilsingh2019@gmail.com> 1655161714 +1000	commit: responsive issue fixed
+1118bc3de1c1172c614653ae04aad3ea8d0bae44 a4bbb5dbc285e3f404e747050e85773483f4532f Sunil Singh <sunilsingh2019@gmail.com> 1655193947 +1000	commit: filter changes
+a4bbb5dbc285e3f404e747050e85773483f4532f b7f1e8b3abb16a9a705a8fde33e426c1d511c07b Sunil Singh <sunilsingh2019@gmail.com> 1655251691 +1000	commit: login remvoed
+b7f1e8b3abb16a9a705a8fde33e426c1d511c07b 0ffc12a0795fb63c8c3cc55710203b3d66884db6 Sunil Singh <sunilsingh2019@gmail.com> 1655713608 +1000	commit: sorting changes || pagination
+0ffc12a0795fb63c8c3cc55710203b3d66884db6 cedc9c50dad4d880c697eaa08f022da1ea6062de Sunil Singh <sunilsingh2019@gmail.com> 1655941055 +1000	commit: filter, sorting, pagination
+cedc9c50dad4d880c697eaa08f022da1ea6062de 2273a29fec8a9adb39d7a8051cee3b29197e6944 Sunil Singh <sunilsingh2019@gmail.com> 1655942790 +1000	commit: remove file
+2273a29fec8a9adb39d7a8051cee3b29197e6944 883ae0cc284e4a896fb008b07241391d90f5cc86 Sunil Singh <sunilsingh2019@gmail.com> 1655947010 +1000	commit: delete data grid
+883ae0cc284e4a896fb008b07241391d90f5cc86 6bb939ba4406c9408ae9ac260b89edc7478607e3 Sunil Singh <sunilsingh2019@gmail.com> 1655950899 +1000	commit: print attendee in order page
+6bb939ba4406c9408ae9ac260b89edc7478607e3 1b4101d2330961649f9e1fd81064c2f99f11756c Sunil Singh <sunilsingh2019@gmail.com> 1655951237 +1000	commit: order print
+1b4101d2330961649f9e1fd81064c2f99f11756c c2d31a99fad5efbcdf7f84f8bdcbf0005e47255f Sunil Singh <sunilsingh2019@gmail.com> 1655963403 +1000	commit: ajax testing
+c2d31a99fad5efbcdf7f84f8bdcbf0005e47255f 16c6b8b3373faf852aac400a5ea251728272cd1e Sunil Singh <sunilsingh2019@gmail.com> 1656985612 +1000	commit: ajax loadmore pagination
+16c6b8b3373faf852aac400a5ea251728272cd1e d784231ef3b62f78067118607af9773dfec4c2dd Sunil Singh <sunilsingh2019@gmail.com> 1657099769 +1000	commit: load more
+d784231ef3b62f78067118607af9773dfec4c2dd ff10a7644fefabea4047cdd45751bbf6ba367f54 Sunil Singh <sunilsingh2019@gmail.com> 1657154929 +1000	commit: pagination
+ff10a7644fefabea4047cdd45751bbf6ba367f54 01e4e58b9ee4e162248885b834c69aaa10b38610 Sunil Singh <sunilsingh2019@gmail.com> 1657155355 +1000	commit: pagination library
+01e4e58b9ee4e162248885b834c69aaa10b38610 d895046cf48ab4da1e398fb649244e87fcee938b Sunil Singh <sunilsingh2019@gmail.com> 1657169384 +1000	commit: code changes
+d895046cf48ab4da1e398fb649244e87fcee938b a378c036af9d99d533e17475b901b86340761aa5 Sunil Singh <sunilsingh2019@gmail.com> 1657247670 +1000	commit: filter
+a378c036af9d99d533e17475b901b86340761aa5 d80c73cfbce22f0ef5ded3c98a60ac6065b249c0 Sunil Singh <sunilsingh2019@gmail.com> 1657502673 +1000	pull origin master: Fast-forward
+d80c73cfbce22f0ef5ded3c98a60ac6065b249c0 032c8143102aed292e87077a1692e812fc49be10 Sunil Singh <sunilsingh2019@gmail.com> 1657581447 +1000	pull origin master: Fast-forward
+032c8143102aed292e87077a1692e812fc49be10 ae4b29b5e84d18c2175c5f306f665903ea8d93f5 Sunil Singh <sunilsingh2019@gmail.com> 1657671906 +1000	commit: checkout page readio fixed
+ae4b29b5e84d18c2175c5f306f665903ea8d93f5 513e4fac3b26b6832efd8d2d128b549c405170cf Sunil Singh <sunilsingh2019@gmail.com> 1657677880 +1000	commit: price chagnes
+513e4fac3b26b6832efd8d2d128b549c405170cf 1b212a4593d3baa85d823de856ca72ed0280b709 Sunil Singh <sunilsingh2019@gmail.com> 1657755091 +1000	commit: ssl plugin
+1b212a4593d3baa85d823de856ca72ed0280b709 a5381c606c81710b84c7a66da646bf18feeb8c59 Sunil Singh <sunilsingh2019@gmail.com> 1657756721 +1000	commit: seach issue fixed
+a5381c606c81710b84c7a66da646bf18feeb8c59 dffef04c5028ec8571b9630beb48c327cd5621e3 Sunil Singh <sunilsingh2019@gmail.com> 1657757372 +1000	commit: module restrection
+dffef04c5028ec8571b9630beb48c327cd5621e3 c262b5099a8cb9072098b943bed249449a2e17db Sunil Singh <sunilsingh2019@gmail.com> 1657758761 +1000	pull origin master: Fast-forward
+c262b5099a8cb9072098b943bed249449a2e17db ee57f7778fa8a2d23ebc53e7622a34b6ca31db8b Sunil Singh <sunilsingh2019@gmail.com> 1657770067 +1000	commit: remove suburb
+ee57f7778fa8a2d23ebc53e7622a34b6ca31db8b 6185f96ef97ec0655bd35dee8ad278865248d83e Sunil Singh <sunilsingh2019@gmail.com> 1657770822 +1000	commit: order page
+6185f96ef97ec0655bd35dee8ad278865248d83e d0729f4eded5934286349c7f0dbc8b477f3d06b5 Sunil Singh <sunilsingh2019@gmail.com> 1657771018 +1000	commit: order page
+d0729f4eded5934286349c7f0dbc8b477f3d06b5 61f6eb132e66b2f871144bb12db9429e1ae3fbfa Sunil Singh <sunilsingh2019@gmail.com> 1657771179 +1000	commit: order
+61f6eb132e66b2f871144bb12db9429e1ae3fbfa e796887b94dbf4c6dada1726d802dcd832b1e235 Sunil Singh <sunilsingh2019@gmail.com> 1657771348 +1000	commit: order
+e796887b94dbf4c6dada1726d802dcd832b1e235 f34bcd44d85f0b3bc6f750c82e679e63a4b63c68 Sunil Singh <sunilsingh2019@gmail.com> 1657771708 +1000	commit: order
+f34bcd44d85f0b3bc6f750c82e679e63a4b63c68 165a99c8ccb5c5c63f54670a34fdefbbf64de5ca Sunil Singh <sunilsingh2019@gmail.com> 1657771836 +1000	commit: remove text
+165a99c8ccb5c5c63f54670a34fdefbbf64de5ca f4e689f1e4511976b0105dbb652082dd7e99d7ce Sunil Singh <sunilsingh2019@gmail.com> 1657771947 +1000	commit: ss
+f4e689f1e4511976b0105dbb652082dd7e99d7ce 37444c1112e89ea52d21daf996116e464c0742d0 Sunil Singh <sunilsingh2019@gmail.com> 1657772018 +1000	commit: no message
+37444c1112e89ea52d21daf996116e464c0742d0 7d339ce027d5299faf55a4509dd4823ef0578523 Sunil Singh <sunilsingh2019@gmail.com> 1657772590 +1000	commit: no message
+7d339ce027d5299faf55a4509dd4823ef0578523 e33e2081aeec4e8774e21283566d41f112ad53ba Sunil Singh <sunilsingh2019@gmail.com> 1657780974 +1000	commit: update wordpress woocommere
+e33e2081aeec4e8774e21283566d41f112ad53ba 504816136f4ebd2571ca9bea7c4211ceafd20389 Sunil Singh <sunilsingh2019@gmail.com> 1657781584 +1000	commit: new theme
+504816136f4ebd2571ca9bea7c4211ceafd20389 aaff2cb5abf39b75a1c3a7a695fa7b687a89b14f Sunil Singh <sunilsingh2019@gmail.com> 1657782504 +1000	commit: gender
+aaff2cb5abf39b75a1c3a7a695fa7b687a89b14f 17fd9f50a1c15388d5192f7c97e7567960772351 Sunil Singh <sunilsingh2019@gmail.com> 1657782852 +1000	commit: no message
+17fd9f50a1c15388d5192f7c97e7567960772351 f7645f2a30ddbcda5a439e155b38be86353eb570 Sunil Singh <sunilsingh2019@gmail.com> 1657840525 +1000	commit: checkout
+f7645f2a30ddbcda5a439e155b38be86353eb570 10d3046c8af48e4d758ae671d938b8fdd0f494c5 Sunil Singh <sunilsingh2019@gmail.com> 1657840762 +1000	commit: checking
+10d3046c8af48e4d758ae671d938b8fdd0f494c5 0f73ecda20d755ff4200953b7bb0115acd10d5be Sunil Singh <sunilsingh2019@gmail.com> 1657840851 +1000	commit: no message
+0f73ecda20d755ff4200953b7bb0115acd10d5be ab207ba54013a89e25951be71df18c4dcfed6e17 Sunil Singh <sunilsingh2019@gmail.com> 1657840935 +1000	commit: no message
+ab207ba54013a89e25951be71df18c4dcfed6e17 8d1bd38bdd5396022c72da1474e99fd2380bd50c Sunil Singh <sunilsingh2019@gmail.com> 1657841010 +1000	commit: no message
+8d1bd38bdd5396022c72da1474e99fd2380bd50c 4280055523a6ff2d3f6fbdf447df9cfaf88d8de0 Sunil Singh <sunilsingh2019@gmail.com> 1657841149 +1000	commit: no message
+4280055523a6ff2d3f6fbdf447df9cfaf88d8de0 d029cb1a0dfd6f8afb3ea941cb2de7491d423877 Sunil Singh <sunilsingh2019@gmail.com> 1657841262 +1000	commit: no message
+d029cb1a0dfd6f8afb3ea941cb2de7491d423877 b108996d95ab38aadf4339a5a68ffc1fc5a367f9 Sunil Singh <sunilsingh2019@gmail.com> 1657841326 +1000	commit: no message
+b108996d95ab38aadf4339a5a68ffc1fc5a367f9 ec77852b20eabc56b0f90893773668b907349524 Sunil Singh <sunilsingh2019@gmail.com> 1657841451 +1000	commit: no message
+ec77852b20eabc56b0f90893773668b907349524 c86940006acffbede57eb303ddc0ac6a8b92936e Sunil Singh <sunilsingh2019@gmail.com> 1657854173 +1000	commit: search fixed
+c86940006acffbede57eb303ddc0ac6a8b92936e de417159be80d255ecb73af2e4f87143e7ef6bf6 Sunil Singh <sunilsingh2019@gmail.com> 1657854929 +1000	commit: restriction
+de417159be80d255ecb73af2e4f87143e7ef6bf6 1443d731af4024968ca00bcbab3c923716429bec Sunil Singh <sunilsingh2019@gmail.com> 1657855378 +1000	commit: module restriction
+1443d731af4024968ca00bcbab3c923716429bec 2d10792917cc76c31b9ac9085155840a499aab86 Sunil Singh <sunilsingh2019@gmail.com> 1658274349 +1000	commit: high contract
+2d10792917cc76c31b9ac9085155840a499aab86 d74cf6deebd423955012e8593fd6fe310d1aea71 Sunil Singh <sunilsingh2019@gmail.com> 1658274654 +1000	commit: grayscale
+d74cf6deebd423955012e8593fd6fe310d1aea71 62740d730c52124b7be6923c6f4d8235c8af69b3 Sunil Singh <sunilsingh2019@gmail.com> 1658276432 +1000	commit: gst
+62740d730c52124b7be6923c6f4d8235c8af69b3 11bcbccd64f8867a6d19fc0742593e54bf52e4cf Sunil Singh <sunilsingh2019@gmail.com> 1658276886 +1000	commit: gst
+11bcbccd64f8867a6d19fc0742593e54bf52e4cf 6a3c9a18242da70976b4e8c6580dcd1c7253b95b Sunil Singh <sunilsingh2019@gmail.com> 1658277208 +1000	commit: payment
+6a3c9a18242da70976b4e8c6580dcd1c7253b95b 111a6ff6d16124df8ccba8c1b20748ead307b86c Sunil Singh <sunilsingh2019@gmail.com> 1658278376 +1000	commit: gst
+111a6ff6d16124df8ccba8c1b20748ead307b86c ead3756c9231d52571f2a40d9661ce297378c0a6 Sunil Singh <sunilsingh2019@gmail.com> 1658285083 +1000	commit: filter
+ead3756c9231d52571f2a40d9661ce297378c0a6 86fb59ec3352a649c9794857df92d4f7e8915960 Sunil Singh <sunilsingh2019@gmail.com> 1658285298 +1000	commit: checkout
+86fb59ec3352a649c9794857df92d4f7e8915960 45360a8b78a4b311495d97ab150461e300b33334 Sunil Singh <sunilsingh2019@gmail.com> 1658285402 +1000	commit: checkout
+45360a8b78a4b311495d97ab150461e300b33334 49651b0937d51650751e6999c5e26997b24f570d Sunil Singh <sunilsingh2019@gmail.com> 1658285461 +1000	commit: no message
+49651b0937d51650751e6999c5e26997b24f570d 952b1ab300ea6cf1a8851c57f27cd4dfdd43dbeb Sunil Singh <sunilsingh2019@gmail.com> 1658285579 +1000	commit: no message
+952b1ab300ea6cf1a8851c57f27cd4dfdd43dbeb 87399caf6f1bd70c852b22b9450aff85f7afa654 Sunil Singh <sunilsingh2019@gmail.com> 1658285744 +1000	commit: no message
+87399caf6f1bd70c852b22b9450aff85f7afa654 3e7120111be78bf824f978cfcccdf8fda5e2e273 Sunil Singh <sunilsingh2019@gmail.com> 1658285821 +1000	commit: no message
+3e7120111be78bf824f978cfcccdf8fda5e2e273 2692a2e97075c2aca0d69f4bb3028794c02f8dc4 Sunil Singh <sunilsingh2019@gmail.com> 1658361757 +1000	commit: no message
+2692a2e97075c2aca0d69f4bb3028794c02f8dc4 7a2166a81181331cde4755f0a8ccbde0579b53b8 Sunil Singh <sunilsingh2019@gmail.com> 1658361957 +1000	commit: no message
+7a2166a81181331cde4755f0a8ccbde0579b53b8 a075a73a0ffb0bfd40eea302d241ef196f353aba Sunil Singh <sunilsingh2019@gmail.com> 1658362045 +1000	commit: no message
+a075a73a0ffb0bfd40eea302d241ef196f353aba 32852dbaee4fc5e94edf4b112f6fa9fd783c7b4a Sunil Singh <sunilsingh2019@gmail.com> 1658362155 +1000	commit: no message
+32852dbaee4fc5e94edf4b112f6fa9fd783c7b4a 66d789bd934219cb1a4a9531b080a8bcbbd70661 Sunil Singh <sunilsingh2019@gmail.com> 1658362264 +1000	commit: no message
+66d789bd934219cb1a4a9531b080a8bcbbd70661 4f23c2e47d9729369c6d3aaf85a57f6ba40515b5 Sunil Singh <sunilsingh2019@gmail.com> 1658443826 +1000	commit: no message
+4f23c2e47d9729369c6d3aaf85a57f6ba40515b5 697ddc9e581d1ce72ad4789f5af3dad99aa031aa Sunil Singh <sunilsingh2019@gmail.com> 1658443906 +1000	commit: no message
+697ddc9e581d1ce72ad4789f5af3dad99aa031aa f0cd2d24b8bb1762c84aba77db1f724900e6fd50 Sunil Singh <sunilsingh2019@gmail.com> 1658444020 +1000	commit: no message
+f0cd2d24b8bb1762c84aba77db1f724900e6fd50 de984c0b1df688c814514fcb79adbd957bcad85c Sunil Singh <sunilsingh2019@gmail.com> 1658444386 +1000	commit: a
+de984c0b1df688c814514fcb79adbd957bcad85c 7504cc8ddde6c7808ad113374a81434bd4e5e139 Sunil Singh <sunilsingh2019@gmail.com> 1658444603 +1000	commit: no message
+7504cc8ddde6c7808ad113374a81434bd4e5e139 f1807c828157bf82f7f4a0617b7f330463c42438 Sunil Singh <sunilsingh2019@gmail.com> 1658444673 +1000	commit: no message
+f1807c828157bf82f7f4a0617b7f330463c42438 0fa95d217ce05c49b25fbffae7898388ea59375d Sunil Singh <sunilsingh2019@gmail.com> 1658444881 +1000	commit: no message
+0fa95d217ce05c49b25fbffae7898388ea59375d eb27f8fab5b84f38531c3403bc1cad675657d8e4 Sunil Singh <sunilsingh2019@gmail.com> 1658445004 +1000	commit: healthcheck
+eb27f8fab5b84f38531c3403bc1cad675657d8e4 36b9f4de7c59ef4ba6806f8f9a6ec32da2c37f3f Sunil Singh <sunilsingh2019@gmail.com> 1658445393 +1000	commit: no message
+36b9f4de7c59ef4ba6806f8f9a6ec32da2c37f3f 9143112fcf78c41a8992d4d2179aa6460e706ce0 Sunil Singh <sunilsingh2019@gmail.com> 1658445553 +1000	commit: sadf
+9143112fcf78c41a8992d4d2179aa6460e706ce0 66af4d71c1352290fbdfb311a5f76452a37b00f2 Sunil Singh <sunilsingh2019@gmail.com> 1658445716 +1000	commit: function
+66af4d71c1352290fbdfb311a5f76452a37b00f2 3a8aa80a1395a4f3573f37c0b741227db630c8df Sunil Singh <sunilsingh2019@gmail.com> 1658445941 +1000	commit: no message
+3a8aa80a1395a4f3573f37c0b741227db630c8df 124c49d5dcc6afb9a74c3398e5e9b269d6f25d78 Sunil Singh <sunilsingh2019@gmail.com> 1658446008 +1000	commit: no message
+124c49d5dcc6afb9a74c3398e5e9b269d6f25d78 0676269007951d4ce5dde82b920c73be6d2305e5 Sunil Singh <sunilsingh2019@gmail.com> 1658458541 +1000	commit: function
+0676269007951d4ce5dde82b920c73be6d2305e5 e19167fa5d7d93df67a8f8c12c7fc81711a0b92b Sunil Singh <sunilsingh2019@gmail.com> 1658458924 +1000	commit: function
+e19167fa5d7d93df67a8f8c12c7fc81711a0b92b 7eab66167c2eb5e5ab48e0cc8c1242690a840766 Sunil Singh <sunilsingh2019@gmail.com> 1658459020 +1000	commit: no message
+7eab66167c2eb5e5ab48e0cc8c1242690a840766 4a545f4d9d090b4d37f5adeb49f5aa78ca2d8630 Sunil Singh <sunilsingh2019@gmail.com> 1658459125 +1000	commit: no message
+4a545f4d9d090b4d37f5adeb49f5aa78ca2d8630 86ce5e08d93ea9fe72a21aa27b4f367667dc8f8a Sunil Singh <sunilsingh2019@gmail.com> 1658459265 +1000	commit: no message
+86ce5e08d93ea9fe72a21aa27b4f367667dc8f8a 003eff97ac94b72c6f9339e6bed3ad57a3409366 Sunil Singh <sunilsingh2019@gmail.com> 1658459342 +1000	commit: 111
+003eff97ac94b72c6f9339e6bed3ad57a3409366 2e761611d8359cd3a1827ea89d6b18e7056f11ac Sunil Singh <sunilsingh2019@gmail.com> 1658459425 +1000	commit: 11
+2e761611d8359cd3a1827ea89d6b18e7056f11ac ed19b50c3a21f0544d04e76cde638a524e21ca5c Sunil Singh <sunilsingh2019@gmail.com> 1658459473 +1000	commit: no message
+ed19b50c3a21f0544d04e76cde638a524e21ca5c c94cc91d8b4738d9ce85bac9f84b924087a8fcf5 Sunil Singh <sunilsingh2019@gmail.com> 1658459551 +1000	commit: bang
+c94cc91d8b4738d9ce85bac9f84b924087a8fcf5 df355386d1ce7b3c4a285fc28b79b3890d900bec Sunil Singh <sunilsingh2019@gmail.com> 1658459704 +1000	commit: no message
+df355386d1ce7b3c4a285fc28b79b3890d900bec ea45f6b4fe6b6279d9912aa9912b9e7bb73b0db8 Sunil Singh <sunilsingh2019@gmail.com> 1658459871 +1000	commit: test
+ea45f6b4fe6b6279d9912aa9912b9e7bb73b0db8 e6325ee87ab7ebe375d72d901b27a633f9218956 Sunil Singh <sunilsingh2019@gmail.com> 1658459999 +1000	commit: woo
+e6325ee87ab7ebe375d72d901b27a633f9218956 09b55c61ccc7109fa3200ccf5bb6ec1ff166b529 Sunil Singh <sunilsingh2019@gmail.com> 1658460195 +1000	commit: no message
+09b55c61ccc7109fa3200ccf5bb6ec1ff166b529 7220e656fd454f7d3e88236819b8bcbdd569838f Sunil Singh <sunilsingh2019@gmail.com> 1658460275 +1000	commit: no message
+7220e656fd454f7d3e88236819b8bcbdd569838f 71afa043bcf6d4f6c3987ec50f4a26f70575005e Sunil Singh <sunilsingh2019@gmail.com> 1658460415 +1000	commit: no message
+71afa043bcf6d4f6c3987ec50f4a26f70575005e fa10e8b4b86659829e8a6f08e8c4270fe565c5b1 Sunil Singh <sunilsingh2019@gmail.com> 1658460515 +1000	commit: no message
+fa10e8b4b86659829e8a6f08e8c4270fe565c5b1 dd468a99811e5e1b4d706d69d66048c7bd6dada2 Sunil Singh <sunilsingh2019@gmail.com> 1658460579 +1000	commit: no message
+dd468a99811e5e1b4d706d69d66048c7bd6dada2 b14fe09a869f8846dfb5f28188012ae7bbe481ec Sunil Singh <sunilsingh2019@gmail.com> 1658460640 +1000	commit: no message
+b14fe09a869f8846dfb5f28188012ae7bbe481ec 153e517de11316b3faba41486c7dff5252fb90eb Sunil Singh <sunilsingh2019@gmail.com> 1658460716 +1000	commit: no message
+153e517de11316b3faba41486c7dff5252fb90eb 81517c508fb85ab1b9cde0c0c8e5bf4dcf2f7132 Sunil Singh <sunilsingh2019@gmail.com> 1658460863 +1000	commit: no message
+81517c508fb85ab1b9cde0c0c8e5bf4dcf2f7132 c67b3d63af3e54257d586bda498055d59bcff0e7 Sunil Singh <sunilsingh2019@gmail.com> 1658460963 +1000	commit: no message
+c67b3d63af3e54257d586bda498055d59bcff0e7 2dec0f9330d3dc2722519732dfaf1bd45214d758 Sunil Singh <sunilsingh2019@gmail.com> 1658461051 +1000	commit: no message
+2dec0f9330d3dc2722519732dfaf1bd45214d758 5f794a77e8893610c05712bd5581cc01ee6dbb53 Sunil Singh <sunilsingh2019@gmail.com> 1658461174 +1000	commit: no message
+5f794a77e8893610c05712bd5581cc01ee6dbb53 b1a8d93fbc4a498aa1074ce7ad2cd74bfd5cd193 Sunil Singh <sunilsingh2019@gmail.com> 1658461237 +1000	commit: no message
+b1a8d93fbc4a498aa1074ce7ad2cd74bfd5cd193 466019e5748ff839b06160b1a85a80a3cd8f1d85 Sunil Singh <sunilsingh2019@gmail.com> 1658461296 +1000	commit: no message
+466019e5748ff839b06160b1a85a80a3cd8f1d85 efa73a3663cb0a8a3324a093308b3b29e53fb6a9 Sunil Singh <sunilsingh2019@gmail.com> 1658461385 +1000	commit: sdf
+efa73a3663cb0a8a3324a093308b3b29e53fb6a9 d6eaa7829edf23771f333b59cd9bf1cef6436c6f Sunil Singh <sunilsingh2019@gmail.com> 1658461454 +1000	commit: sdf
+d6eaa7829edf23771f333b59cd9bf1cef6436c6f f52f2588700f89b7a5d0e1bed62f89cda38d09e8 Sunil Singh <sunilsingh2019@gmail.com> 1658461507 +1000	commit: no message
+f52f2588700f89b7a5d0e1bed62f89cda38d09e8 50c40f9d1fda29c061b1394e89b1806d51d3b9d8 Sunil Singh <sunilsingh2019@gmail.com> 1658461643 +1000	commit: no message
+50c40f9d1fda29c061b1394e89b1806d51d3b9d8 43aaad9da59c8e6966dfecdff115916b653d796f Sunil Singh <sunilsingh2019@gmail.com> 1658461740 +1000	commit: no message
+43aaad9da59c8e6966dfecdff115916b653d796f 6c638a3b4be70812e4eac53f070cc5136d1b28ca Sunil Singh <sunilsingh2019@gmail.com> 1658461828 +1000	commit: aa
+6c638a3b4be70812e4eac53f070cc5136d1b28ca 33433eeca7981549fe2efe54c49e5f7bce7b6815 Sunil Singh <sunilsingh2019@gmail.com> 1658462469 +1000	commit: function
+33433eeca7981549fe2efe54c49e5f7bce7b6815 76976c519705c0d5c558dc719c936c7eb5724ab1 Sunil Singh <sunilsingh2019@gmail.com> 1658878694 +1000	commit: plugin and core

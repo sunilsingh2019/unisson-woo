@@ -1,0 +1,9 @@
+.productfaq {
+    &--section {
+        padding: 82px 0 0;
+
+        @media (max-width: 991px) {
+            padding: 34px 0 0;
+        }
+    }
+}

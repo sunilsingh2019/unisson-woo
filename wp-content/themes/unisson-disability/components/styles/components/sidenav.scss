@@ -1,0 +1,76 @@
+.sidenav {
+    z-index: 2;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 320px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: 4px 0 24px rgba(#000, .1);
+    padding: 20px;
+    transition: all .3s ease-out;
+    transition-delay: .3s;
+
+    &-wrap {
+        z-index: 100;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100vh;
+    }
+
+    &-header {
+        text-align: right;
+        margin-bottom: 40px;
+    }
+
+    &-list {
+        list-style-type: none;
+        margin-bottom: 30px;
+        flex-flow: column;
+
+        >li {
+            &:not(:last-child) {
+                margin-bottom: 15px;
+            }
+
+            >a {
+                color: $color-black;
+                font-size: 1.8rem;
+                text-transform: capitalize;
+
+                &:hover {
+                    color: $color-orange;
+                }
+            }
+        }
+    }
+
+    &-backdrop {
+        z-index: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(#000, .5);
+        cursor: pointer;
+        transition: all .3s ease-out;
+        transition-delay: 0s;
+    }
+
+    &-wrap:not(.active) {
+        right: -101%;
+
+        .sidenav {
+            right: -101%;
+            transition-delay: 0s;
+
+            &-backdrop {
+                opacity: 0;
+                transition-delay: .3s;
+            }
+        }
+    }
+}

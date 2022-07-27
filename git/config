@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/BangAU/unissondisability-Woocommerce.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "uat"]
+	url = ubuntu@13.237.230.231:/data/git/unisson-ecommerce.git
+	fetch = +refs/heads/*:refs/remotes/uat/*
+[branch "master"]
+	remote = uat
+	merge = refs/heads/master
+[remote "production"]
+	url = ubuntu@52.63.52.174:/data/git/unisson-ecommerce.git
+	fetch = +refs/heads/*:refs/remotes/production/*

@@ -1,0 +1,420 @@
+.text-center {
+    text-align: center !important;
+}
+
+.mx-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.m {
+    &t {
+        &-0 {
+            margin-top: 0 !important;
+        }
+    }
+
+    &b {
+        &-0 {
+            margin-bottom: 0 !important;
+        }
+    }
+
+    &l {
+        &-auto {
+            margin-left: auto !important;
+        }
+    }
+
+    @media (min-width: 992px) {
+        &t {
+            &-lg-0 {
+                margin-top: 0 !important;
+            }
+        }
+
+        &b {
+            &-lg-0 {
+                margin-bottom: 0 !important;
+            }
+        }
+
+        &l {
+            &-lg-auto {
+                margin-left: auto !important;
+            }
+        }
+    }
+}
+
+.p {
+    &t-0 {
+        padding-top: 0 !important;
+    }
+
+    &b-0 {
+        padding-bottom: 0 !important;
+    }
+}
+
+.max-width {
+    &--100 {
+        max-width: 100px !important;
+    }
+
+    &--150 {
+        max-width: 150px !important;
+    }
+
+    &--200 {
+        max-width: 200px !important;
+    }
+
+    &--250 {
+        max-width: 250px !important;
+    }
+
+    &--300 {
+        max-width: 300px !important;
+    }
+
+    &--350 {
+        max-width: 350px !important;
+    }
+
+    &--400 {
+        max-width: 400px !important;
+    }
+
+    &--450 {
+        max-width: 450px !important;
+    }
+
+    &--500 {
+        max-width: 500px !important;
+    }
+
+    &--550 {
+        max-width: 550px !important;
+    }
+
+    &--600 {
+        max-width: 600px !important;
+    }
+
+    &--650 {
+        max-width: 650px !important;
+    }
+
+    &--700 {
+        max-width: 700px !important;
+    }
+
+    &--730 {
+        max-width: 730px !important;
+    }
+
+    &--750 {
+        max-width: 750px !important;
+    }
+
+    &--800 {
+        max-width: 800px !important;
+    }
+
+    &--850 {
+        max-width: 850px !important;
+    }
+
+    &--900 {
+        max-width: 900px !important;
+    }
+
+    &--950 {
+        max-width: 950px !important;
+    }
+
+    &--1000 {
+        max-width: 1000px !important;
+    }
+
+    &--1050 {
+        max-width: 1050px !important;
+    }
+
+    &--1100 {
+        max-width: 1100px !important;
+    }
+
+    &--1150 {
+        max-width: 1150px !important;
+    }
+
+    &--1200 {
+        max-width: 1200px !important;
+    }
+
+    &--1250 {
+        max-width: 1250px !important;
+    }
+
+    &--1300 {
+        max-width: 1300px !important;
+    }
+
+    &--1350 {
+        max-width: 1350px !important;
+    }
+
+    &--1400 {
+        max-width: 1400px !important;
+    }
+}
+
+.imgfit {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.change-to-bg {
+    background-size: cover;
+    background-position: center;
+
+    img {
+        display: none;
+    }
+}
+
+.price {
+    p {
+        color: $color-black;
+        font-weight: 500;
+        margin-bottom: 9px;
+
+        @media (max-width: 767px) {
+            font-size: 1.3rem;
+            line-height: normal;
+        }
+    }
+
+    .price-num {
+        color: $color-orange;
+        font-size: 3rem;
+        line-height: normal;
+        margin-bottom: 0;
+
+        // @media (max-width: 767px) {
+        //     font-size: 3rem;
+        // }
+   
+    }
+}
+
+.high-contrast {
+    // border-color: #fff !important;
+
+    .homebanner-slider-item {
+        .heading {
+            color: #fff !important;
+        }
+    }
+
+    .slick-arrow {
+        background-color: $color-black !important;
+    }
+
+    .header .access-dropdown .custom-dropdown-list {
+        background-color: #fff !important;
+    }
+
+    .sortby .custom-dropdown-btn {
+        color: $color-black !important;
+
+        &::after {
+            border-color: #fff !important;
+        }
+    }
+
+    .access-dropdown {
+        .custom-dropdown-btn::after {
+            border-color: #fff !important;
+        }
+    }
+
+    .checkbox input:checked {
+        background-image: radial-gradient($color-black 58%, #fff 58%, #fff);
+    }
+
+    .header .access-dropdown .custom-dropdown-list ul li .icon img {
+        filter: brightness(0) !important;
+    }
+
+    .header .access-dropdown .custom-dropdown-list ul li::after {
+        background-color: $color-black !important;
+    }
+
+    .programfilter-card .heading-location,
+    .price-num {
+        color: $color-black !important;
+    }
+
+    .pagination {
+        li {
+            &.active {
+                background-color: $color-black !important;
+
+                a {
+                    color: #fff !important;
+                }
+            }
+
+            &:hover {
+                background-color: $color-black !important;
+
+                a {
+                    color: #fff !important;
+                }
+            }
+
+            &.prev,
+            &.next {
+                &::before {
+                    border-color: $color-black !important;
+                }
+
+                &:hover::before {
+                    border-color: #fff !important;
+                }
+            }
+        }
+    }
+
+    .ctafooter {
+        color: #fff !important;
+        background-color: $color-black !important;
+
+        .heading {
+            color: #fff !important;
+        }
+
+        .btn {
+            color: $color-black !important;
+            background-color: #fff !important;
+        }
+    }
+
+    .copyright {
+        color: $color-black !important;
+    }
+
+    .footer,
+    .footer-bot-list {
+        h4,
+        li,
+        a {
+            color: $color-black !important;
+        }
+    }
+
+    .pageheader--section {
+        color: rgb(0, 0, 0) !important;
+        background-color: $color-white !important;
+
+        .breadcrumb li,
+        .breadcrumb li a,
+        .term,
+        h4,
+        h5 {
+            color: rgb(0, 0, 0) !important;
+        }
+    }
+
+    .product--num-plus,
+    .product--num-minus {
+        background-color: $color-black !important;
+    }
+
+    .customtab--nav-list li::before {
+        background-color: #fff !important;
+    }
+
+    .customaccord--item-header h2 span {
+        color: $color-black !important;
+    }
+
+    .customaccord--item {
+        .customaccord--item-header {
+            &::before,
+            &::after {
+                background-color: $color-black !important;
+            }
+        }
+    }
+
+    .searchresult-card .heading-location {
+        color: $color-black !important;
+    }
+
+    .searchresult-empty-notice {
+        color: $color-black !important;
+        background-color: #fff !important;
+    }
+
+    .woocommerce-account .woocommerce-MyAccount-content p a {
+        color: $color-black !important;
+    }
+
+    .woocommerce-account .woocommerce-MyAccount-content .woocommerce-Addresses .edit {
+        color: $color-black !important;
+    }
+
+    .woocommerce {
+        .button {
+            color: #fff !important;
+            background-color: $color-black !important;
+        }
+    }
+
+    .thwmscf_time_line_step ul.thwmscf-tabs li a.active {
+        border-top-color: $color-medium-gray !important;
+    }
+
+    .woocommerce-cart-form .shop_table tbody .cart_item .product-subtotal .amount {
+        color: #333;
+    }
+
+    .woocommerce-cart-form .shop_table tbody .cart_item .product-remove .remove {
+        background-color: #333;
+    }
+
+    .accountlogin .heading-title a:hover {
+        color: #000000 !important;
+    }
+}
+
+.thwmscf-last-next {
+    display: none;
+}
+
+.woocommerce-account.page-login .woocommerce > .woocommerce-notices-wrapper, .woocommerce-lost-password .woocommerce > .woocommerce-notices-wrapper {
+    z-index: 2;
+    position: relative;
+    width: 85vw;
+    max-width: 962px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #fff;
+    background-color: #e0e0e000 !important;
+    padding: 17px 62px;
+    -webkit-transform: translateY(-215px);
+    -ms-transform: translateY(-215px);
+    transform: translateY(-215px);
+    border-radius: 10px;
+}

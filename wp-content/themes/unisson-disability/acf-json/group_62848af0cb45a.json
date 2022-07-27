@@ -1,0 +1,41 @@
+{
+    "key": "group_62848af0cb45a",
+    "title": "Header Settings",
+    "fields": [
+        {
+            "key": "field_62848b2128b60",
+            "label": "Donation Link",
+            "name": "donation_link",
+            "type": "link",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-header"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1652856278,
+    "local_file": "\/Users\/sunil\/Sites\/unissondisability-woo\/wp-content\/themes\/unisson-disability\/acf-json\/group_62848af0cb45a.json"
+}

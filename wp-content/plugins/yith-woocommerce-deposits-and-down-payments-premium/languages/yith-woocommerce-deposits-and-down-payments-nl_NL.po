@@ -1,0 +1,1462 @@
+# Translation of YITH WooCommerce Deposits and Down Payments in Dutch
+# This file is distributed under the same license as the YITH WooCommerce Deposits and Down Payments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Deposits and Down Payments\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"deposits-and-down-payments.premium\n"
+"POT-Creation-Date: 2022-04-05 15:14:41+00:00\n"
+"PO-Revision-Date: 2021-10-19 14:16:28+0000\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:82
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:103
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:126
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:90
+#: templates/admin/deposits-panel.php:32 templates/admin/deposits-panel.php:59
+#: templates/admin/deposits-panel.php:84
+msgid "Amount"
+msgstr "Bedrag"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:104
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:127
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:91
+#: templates/admin/deposits-panel.php:33 templates/admin/deposits-panel.php:60
+#: templates/admin/deposits-panel.php:85
+msgid "Rate"
+msgstr "Rating"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:138
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:161
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:125
+msgid "Update"
+msgstr "Update"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:140
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:163
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:127
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:153
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:154
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:178
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:141
+#: includes/class-yith-wcdp-admin-premium.php:711
+msgid "Deposit type"
+msgstr "Type aanbetaling"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:155
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:179
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:142
+msgid "Deposit value"
+msgstr "Waarde aanbetaling"
+
+#: includes/admin-tables/class-yith-wcdp-category-deposits-table.php:156
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:180
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:143
+#: templates/my-deposits.php:84
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:176
+#: templates/emails/deposit-table.php:19 templates/my-deposits.php:34
+#: templates/my-deposits.php:48
+msgid "Product"
+msgstr "Product"
+
+#: includes/admin-tables/class-yith-wcdp-product-deposits-table.php:177
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/admin-tables/class-yith-wcdp-role-deposits-table.php:140
+msgid "Role"
+msgstr "Rol"
+
+#: includes/class-yith-wcdp-admin-premium.php:82
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+#: includes/class-yith-wcdp-admin-premium.php:84
+msgid "Value entered cannot exceed 100%"
+msgstr "Ingevoerde waarde kan niet hoger zijn dan 100%"
+
+#: includes/class-yith-wcdp-admin-premium.php:200
+msgid "Send notification email"
+msgstr "Verstuur notificatie e-mail"
+
+#: includes/class-yith-wcdp-admin-premium.php:220
+#: includes/class-yith-wcdp-admin-premium.php:221
+msgid "Remind deposit expiring"
+msgstr "Herinner aan vervaldatum aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:328
+msgid "Notification email sent"
+msgstr "Notificatie e-mail verstuurt"
+
+#. translators: 1. Number of days before expiration.
+#: includes/class-yith-wcdp-admin-premium.php:372
+msgid ""
+"This item should be manually refunded by admin, since the %d days available "
+"to complete payment have passed and deposit has expired"
+msgstr ""
+"Deze items moeten handmatig worden gerestitueerd door de admin, aangezien de "
+"%d dagen gegeven voor het afronden van de betaling zijn gepasseerd en de "
+"aanbetaling is vervallen"
+
+#. translators: 1. Expiration date.
+#: includes/class-yith-wcdp-admin-premium.php:374
+msgid ""
+"This item should be manually refunded by admin, since deposit has expired on "
+"%s"
+msgstr ""
+"Deze items moeten handmatig worden gerestitueerd door de administrateur, "
+"aangezien de aanbetaling is verlopen op %s"
+
+#: includes/class-yith-wcdp-admin-premium.php:374
+msgid "N/A"
+msgstr "N.v.t."
+
+#: includes/class-yith-wcdp-admin-premium.php:409
+msgid "Create refund"
+msgstr "Creëer een restitutie"
+
+#: includes/class-yith-wcdp-admin-premium.php:411
+msgid "Hide this notice"
+msgstr "Verberg deze melding"
+
+#. translators: 1. Refund id.
+#: includes/class-yith-wcdp-admin-premium.php:424
+msgid "This item has been refunded, due to deposit expiration (refund #%d)"
+msgstr ""
+"Dit item is gerestitueerd, wegens vervallen van aanbetaling (restitutie #%d)"
+
+#: includes/class-yith-wcdp-admin-premium.php:458
+msgid "Deposit to Refund"
+msgstr "Aanbetaling om te restitueren"
+
+#: includes/class-yith-wcdp-admin-premium.php:668
+msgid "Deposits"
+msgstr "Aanbetalingen"
+
+#: includes/class-yith-wcdp-admin-premium.php:688
+msgid "Deposit checked"
+msgstr "Aanbetaling geselecteerd"
+
+#: includes/class-yith-wcdp-admin-premium.php:691
+msgid "Whether deposit option should be selected by default or not"
+msgstr "Bepaal op de deposito optie moet zijn geselecteerd bij default of niet"
+
+#: includes/class-yith-wcdp-admin-premium.php:700
+msgid "Enable AJAX variation"
+msgstr "Activeer AJAX variatie"
+
+#: includes/class-yith-wcdp-admin-premium.php:703
+msgid ""
+"Enable this option if you want to load deposits options via AJAX. This "
+"should reduce loading time for single product page"
+msgstr ""
+"Schakel deze optie in als u Stortingsopties via AJAX wilt laden. Dit moet de "
+"laadtijd voor één product pagina verminderen"
+
+#: includes/class-yith-wcdp-admin-premium.php:715
+msgid "Select the type of deposit you want to apply to selected products"
+msgstr ""
+"Selecteer het type aanbetaling dat u wilt toepassen op de geselecteerde "
+"prodcuten"
+
+#: includes/class-yith-wcdp-admin-premium.php:718
+msgid "Fixed amount"
+msgstr "Vast bedrag"
+
+#: includes/class-yith-wcdp-admin-premium.php:719
+msgid "Percent value of product price"
+msgstr "Percentage van de productprijs"
+
+#: includes/class-yith-wcdp-admin-premium.php:728
+msgid "Deposit Rate"
+msgstr "Aanbetaling tarief"
+
+#: includes/class-yith-wcdp-admin-premium.php:730
+msgid "Percentage of product total price required as deposit"
+msgstr "Percentage van totaalprijs product noodzakelijk als aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:745
+#: includes/class-yith-wcdp-admin-premium.php:833
+#: includes/class-yith-wcdp-admin.php:817
+#: includes/class-yith-wcdp-admin.php:842
+#: includes/class-yith-wcdp-frontend.php:412
+#: includes/class-yith-wcdp-frontend.php:561
+#: includes/class-yith-wcdp-frontend.php:576 includes/class-yith-wcdp.php:522
+msgid "Balance"
+msgstr "Saldo"
+
+#: includes/class-yith-wcdp-admin-premium.php:752
+msgid "Balance type"
+msgstr "Saldo type"
+
+#: includes/class-yith-wcdp-admin-premium.php:757
+msgid "Do not create any balance order"
+msgstr "Maak geen saldo bestelling"
+
+#: includes/class-yith-wcdp-admin-premium.php:758
+msgid "Create a single balance order for all items purchased with deposit"
+msgstr ""
+"Maak een enkele saldo bestelling voor alle producten gekocht met een "
+"aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:759
+msgid "Create one balance order for each item purchased with deposit"
+msgstr ""
+"Maak een saldo bestelling voor elk item dat met een aanbetaling is gekocht"
+
+#: includes/class-yith-wcdp-admin-premium.php:766
+#: templates/admin/product-deposit-tab-premium.php:72
+msgid "Let users pay balance orders online"
+msgstr "Laat gebruikers het saldo online betalen"
+
+#: includes/class-yith-wcdp-admin-premium.php:769
+msgid ""
+"Check this option to create balance orders with \"Pending Payment\" status, "
+"so that users can complete purchases online; otherwise \"On Hold\" status "
+"will be applied (this behaviour can be overridden on product level)"
+msgstr ""
+"Selecteer deze optie om saldo bestellingen te maken met \"betaling in "
+"behandeling\" status, zodat de gebruiker de aankoop online kan afronden; "
+"anders zal de \"in de wacht\" status worde toegepast (dit gedrag kan worden "
+"overschreven op product niveau)"
+
+#: includes/class-yith-wcdp-admin-premium.php:782
+msgid "Labels & Messages"
+msgstr "Labels & Berichten"
+
+#: includes/class-yith-wcdp-admin-premium.php:789
+#: includes/class-yith-wcdp-admin-premium.php:793
+#: includes/class-yith-wcdp-admin.php:421
+#: includes/class-yith-wcdp-admin.php:816
+#: includes/class-yith-wcdp-admin.php:840
+#: includes/class-yith-wcdp-frontend.php:440
+#: includes/class-yith-wcdp-frontend.php:446
+#: includes/class-yith-wcdp-frontend.php:463
+#: includes/class-yith-wcdp-premium.php:516
+#: plugin-options/settings-options.php:93 templates/my-deposits.php:20
+#: templates/my-deposits.php:26
+msgid "Deposit"
+msgstr "Aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:797
+#: templates/single-add-deposit-to-cart.php:24
+msgid "Pay deposit"
+msgstr "Betaal aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:801
+#: templates/loop-add-deposit-to-cart.php:19
+msgid "Pay Deposit"
+msgstr "Betaal aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:805
+#: templates/single-add-deposit-to-cart.php:20
+msgid "Pay full amount"
+msgstr "Betaal volledig bedrag"
+
+#: includes/class-yith-wcdp-admin-premium.php:809
+msgid "Pay Full Amount"
+msgstr "Betaal volledig bedrag"
+
+#: includes/class-yith-wcdp-admin-premium.php:813
+#: includes/class-yith-wcdp-admin-premium.php:817
+#: includes/class-yith-wcdp-frontend.php:536
+msgid "Partially Paid"
+msgstr "Gedeeltelijk betaald"
+
+#: includes/class-yith-wcdp-admin-premium.php:821
+msgid "Full price label"
+msgstr "Volledige prijs label"
+
+#: includes/class-yith-wcdp-admin-premium.php:825
+#: includes/class-yith-wcdp-frontend.php:396 includes/class-yith-wcdp.php:521
+msgid "Full price"
+msgstr "Volledige prijs"
+
+#: includes/class-yith-wcdp-admin-premium.php:829
+msgid "Balance label"
+msgstr "Saldo label"
+
+#: includes/class-yith-wcdp-admin-premium.php:837
+msgid "Pay on location"
+msgstr "Betaal op locatie"
+
+#: includes/class-yith-wcdp-admin-premium.php:841
+msgid "You can complete this order on location"
+msgstr "U kunt deze order op locatie afronden"
+
+#: includes/class-yith-wcdp-admin-premium.php:845
+msgid "Position of product note"
+msgstr "Positie van product notitie"
+
+#: includes/class-yith-wcdp-admin-premium.php:850
+msgid "Do not show any note on product"
+msgstr "Toon geen notitie op product"
+
+#: includes/class-yith-wcdp-admin-premium.php:851
+msgid "Below product title"
+msgstr "Onder de product titel"
+
+#: includes/class-yith-wcdp-admin-premium.php:852
+msgid "Below product price"
+msgstr "Onder de productprijs"
+
+#: includes/class-yith-wcdp-admin-premium.php:853
+msgid "Below product excerpt"
+msgstr "Onder product samenvatting"
+
+#: includes/class-yith-wcdp-admin-premium.php:854
+msgid "Below single Add to Cart"
+msgstr "Onder toevoegen aan winkelwagen"
+
+#: includes/class-yith-wcdp-admin-premium.php:855
+msgid "Below product meta"
+msgstr "Onder product meta"
+
+#: includes/class-yith-wcdp-admin-premium.php:856
+msgid "Below product share"
+msgstr "Onder product delen"
+
+#: includes/class-yith-wcdp-admin-premium.php:863
+msgid "Product note"
+msgstr "Product notitie"
+
+#: includes/class-yith-wcdp-admin-premium.php:867
+msgid "You can override this option from single product edit page"
+msgstr "U kunt deze optie overschrijven vanuit single product bewerk pagina"
+
+#: includes/class-yith-wcdp-admin-premium.php:880
+msgid "Deposit expiration"
+msgstr "Aanbetaling vervallen"
+
+#: includes/class-yith-wcdp-admin-premium.php:887
+msgid "Enable deposit expiration"
+msgstr "Aanbetaling vervallen inschakelen"
+
+#: includes/class-yith-wcdp-admin-premium.php:890
+msgid ""
+"Check this option, if you want to set a number of days, after which order "
+"with deposits cannot be completed anymore"
+msgstr ""
+"Selecteer deze optie als u het aantal dagen wilt instellen, waarna de order "
+"met aanbetaling niet meer kan worden afgerond"
+
+#: includes/class-yith-wcdp-admin-premium.php:896
+msgid "Deposit expires"
+msgstr "Aanbetaling vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:900
+msgid "Choose how plugin should calculate when a deposit is expired"
+msgstr "Bepaal hoe de plugin moet calculeren, wanneer een aanbetaling vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:905
+msgid "After some days from its creation"
+msgstr "Na enkele dagen vanaf de aanmaakdatum"
+
+#: includes/class-yith-wcdp-admin-premium.php:906
+msgid "On a specific date"
+msgstr "Op een specifieke datum"
+
+#: includes/class-yith-wcdp-admin-premium.php:912
+msgid "Days before expiration"
+msgstr "Dagen tot vervallen"
+
+#: includes/class-yith-wcdp-admin-premium.php:914
+msgid ""
+"Number of days after which order with deposit cannot be completed anymore"
+msgstr ""
+"Aantal dagen nadat de order met aanbetaling niet meer kan worden afgerond"
+
+#: includes/class-yith-wcdp-admin-premium.php:927
+#: templates/admin/product-deposit-tab-premium.php:99
+#: templates/admin/product-deposit-variation.php:97
+msgid "Expiration date"
+msgstr "Vervaldatum"
+
+#: includes/class-yith-wcdp-admin-premium.php:929
+msgid ""
+"Expiration date for depist (you can override this setting in product page)"
+msgstr ""
+"Vervaldatum voor aanbetaling (u kunt dit overschrijven vanaf de instellingen "
+"in de product pagina)"
+
+#: includes/class-yith-wcdp-admin-premium.php:938
+#: templates/admin/product-deposit-tab-premium.php:103
+#: templates/admin/product-deposit-variation.php:101
+msgid "Product status"
+msgstr "Product status"
+
+#: includes/class-yith-wcdp-admin-premium.php:942
+msgid "Choose what changes in product when deposit expires"
+msgstr "Bepaal wat er gebeurt met een product wanneer een aanbetaling vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:947
+#: includes/class-yith-wcdp-admin-premium.php:963
+#: templates/admin/product-deposit-tab-premium.php:111
+#: templates/admin/product-deposit-variation.php:109
+msgid "Do nothing"
+msgstr "Niets doen"
+
+#: includes/class-yith-wcdp-admin-premium.php:948
+#: templates/admin/product-deposit-tab-premium.php:116
+#: templates/admin/product-deposit-variation.php:114
+msgid "Just disable deposit"
+msgstr "Aanbetaling uitschakelen"
+
+#: includes/class-yith-wcdp-admin-premium.php:949
+#: templates/admin/product-deposit-tab-premium.php:122
+#: templates/admin/product-deposit-variation.php:119
+msgid "Make item no longer purchasable"
+msgstr "Het item is niet langer te koop"
+
+#: includes/class-yith-wcdp-admin-premium.php:950
+#: templates/admin/product-deposit-tab-premium.php:127
+msgid "Hide item from catalog visibility"
+msgstr "Het item verbergen in catalogus"
+
+#: includes/class-yith-wcdp-admin-premium.php:956
+msgid "Expiration fallback"
+msgstr "Vervallen terugval"
+
+#: includes/class-yith-wcdp-admin-premium.php:960
+msgid "Select an action to carry out when a deposit expires"
+msgstr "Selecteer een uit te voeren actie voor wanneer een aanbetaling vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:964
+msgid "Refund deposit for the product"
+msgstr "Aanbetaling restitueren voor het product"
+
+#: includes/class-yith-wcdp-admin-premium.php:978
+msgid "Notify options"
+msgstr "Informeer opties"
+
+#: includes/class-yith-wcdp-admin-premium.php:985
+msgid "Customer deposit created"
+msgstr "Klant aanbetaling gecreëerd"
+
+#: includes/class-yith-wcdp-admin-premium.php:988
+msgid "Send an email to customer when an order with deposit is created"
+msgstr ""
+"Stuur een e-mail naar klant wanneer een order met aanbetaling is gecreëerd"
+
+#: includes/class-yith-wcdp-admin-premium.php:994
+msgid "Admin - for deposit created"
+msgstr "Admin - voor gecreëerde aanbetaling"
+
+#: includes/class-yith-wcdp-admin-premium.php:997
+msgid "Send an email to admin(s) when an order with deposit is created"
+msgstr ""
+"Stuur een e-mail naar admin(s) zodra een order met aanbetaling is gecreëerd"
+
+#: includes/class-yith-wcdp-admin-premium.php:1003
+msgid "Customer - deposit expiring"
+msgstr "Klant - aanbetaling vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:1006
+msgid "Send an email to customer when an order is expiring"
+msgstr "Stuur een e-mail naar de klant wanneer een order bijna vervalt"
+
+#: includes/class-yith-wcdp-admin-premium.php:1012
+msgid "Days before notification"
+msgstr "Dagen voor notificatie"
+
+#: includes/class-yith-wcdp-admin-premium.php:1014
+msgid ""
+"Set here the number of days before expiration of a deposit, when a notifying "
+"email will be sent to customers"
+msgstr ""
+"Bepaal het aantal dagen voor het vervallen van de aanbetaling, wanneer de "
+"notificatie e-mail zal worden verzonden naar de klanten"
+
+#: includes/class-yith-wcdp-admin.php:84
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-yith-wcdp-admin.php:85
+msgid "Premium Version"
+msgstr "Premium Versie"
+
+#: includes/class-yith-wcdp-admin.php:135
+msgid "YITH Plugins"
+msgstr "YITH Plugins"
+
+#: includes/class-yith-wcdp-admin.php:661
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: includes/class-yith-wcdp-admin.php:717
+msgid ""
+"Note: from this box you can monitor the status of suborders concerning full "
+"payments."
+msgstr ""
+"Notitie: vanaf dit blok kun je de status van sub-bestellingen controleren "
+"met betrekking tot volledige betalingen."
+
+#: includes/class-yith-wcdp-admin.php:903
+msgid "Full payment order"
+msgstr "Volledige betaling order"
+
+#. translators: 1. Link to balance order(s).
+#: includes/class-yith-wcdp-frontend-premium.php:386
+msgid ""
+"This order contains expired deposit; full amount order %s was consequently "
+"switched to cancelled and it cannot be completed anymore"
+msgid_plural ""
+"This order contains expired deposit; full amount orders %s were consequently "
+"switched to cancelled and they cannot be completed anymore"
+msgstr[0] ""
+"Deze order bevat een vervallen aanbetaling; volledig bedrag order %s is "
+"derhalve gewijzigd naar geannuleerd en kan niet meer worden afgerond"
+msgstr[1] ""
+"Deze order bevat een vervallen aanbetaling; volledig bedrag orders %s zijn "
+"derhalve gewijzigd naar geannuleerd en kunnen niet meer worden afgerond"
+
+#: includes/class-yith-wcdp-frontend-premium.php:409
+msgid "Payment options"
+msgstr "Betalingsopties"
+
+#: includes/class-yith-wcdp-frontend.php:464
+msgid "Full payment"
+msgstr "Volledige betaling"
+
+#: includes/class-yith-wcdp-frontend.php:495
+#: includes/class-yith-wcdp-frontend.php:640
+msgid "of"
+msgstr "van"
+
+#. translators: 1. Balance.
+#: includes/class-yith-wcdp-frontend.php:561
+msgid "%s subtotal"
+msgstr "%s subtotaal"
+
+#. translators: 1. Balance.
+#: includes/class-yith-wcdp-frontend.php:576
+msgid "%s shipping"
+msgstr "%s verzending"
+
+#: includes/class-yith-wcdp-frontend.php:659
+msgid "View Full Payment"
+msgstr "Bekijk volledige betaling"
+
+#: includes/class-yith-wcdp-frontend.php:702 includes/class-yith-wcdp.php:559
+msgid "Pay"
+msgstr "Betalen"
+
+#: includes/class-yith-wcdp-frontend.php:709
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/class-yith-wcdp-frontend.php:715 includes/class-yith-wcdp.php:565
+msgid "View"
+msgstr "Bekijken"
+
+#: includes/class-yith-wcdp-premium.php:611
+msgid "Expiring deposit notification email for customer"
+msgstr "Aanbetaling vervalt e-mailmelding voor de klant"
+
+#: includes/class-yith-wcdp-premium.php:612
+msgid "New deposit created notification email for customer"
+msgstr "E-mailmelding voor klant bij aanmaken nieuwe aanbetaling"
+
+#: includes/class-yith-wcdp-suborders-premium.php:112
+msgid "Item refunded manually for deposit expiration"
+msgstr "Item handmatig gerestitueerd voor aanbetaling"
+
+#: includes/class-yith-wcdp-suborders-premium.php:473
+msgid "Item refunded automatically for deposit expiration"
+msgstr "Item automatisch gerestitueerd voor aanbetaling vervaldatum"
+
+#. translators: 1. Product id. 2. Number of days before deposit expiration.
+#: includes/class-yith-wcdp-suborders-premium.php:497
+msgid ""
+"Item %1$s has been automatically refunded, because %2$d days allowed to "
+"complete payment have passed"
+msgid_plural ""
+"Items %1$s have been automatically refunded, because %2$d days allowed to "
+"complete payment have passed"
+msgstr[0] ""
+"Item %1$s is automatisch gerestitueerd, omdat %2$d dagen om de betaling af "
+"te ronden zijn gepasseerd"
+msgstr[1] ""
+"Items %1$s zijn automatisch gerestitueerd, omdat %2$d dagen om de betaling "
+"af te ronden zijn gepasseerd"
+
+#. translators: 1. Product id. 2. Old stock value 3. New stock value.
+#: includes/class-yith-wcdp-suborders-premium.php:524
+msgid "Item #%1$s stock increased from %2$s to %3$s."
+msgstr "Item #%1$s voorraard toegenomen van %2$s naar %3$s."
+
+#. translators: 1. NUmber of days before deposit expiration.
+#: includes/class-yith-wcdp-suborders-premium.php:534
+msgid ""
+"The %d days granted to complete this order have passed. For this reason, it "
+"has been switched to cancelled, and it cannot be completed anymore"
+msgstr ""
+"De %d dagen gegeven om deze order af te ronden zijn gepasseerd. Met deze "
+"reden is de order gewijzigd naar geannuleerd, en deze kan niet meer worden "
+"afgerond"
+
+#. translators: 1. Suborder id.
+#: includes/class-yith-wcdp-suborders-premium.php:661
+msgid "Expiring deposit notification sent (#%d)"
+msgstr "Verlopen aanbetaling melding verzonden (#%d)"
+
+#: includes/class-yith-wcdp-suborders.php:305
+msgid "Suborder status changed to reflect parent order status change"
+msgstr ""
+"Sub-bestelling status gewijzigd die weerspiegelt de hoofdbestelling status "
+"wijziging"
+
+#: includes/class-yith-wcdp-suborders.php:336
+msgid ""
+"Suborder status changed to reflect Pending payment status because parent's "
+"order status changed."
+msgstr ""
+"Sub-bestelling status gewijzigd die weerspiegelt de ‘betaling in "
+"behandeling’ status, want de status van de hoofdbestelling is gewijzigd."
+
+#. translators: 1. Item id 2. Product title.
+#: includes/class-yith-wcdp-suborders.php:424
+msgid "There was an error while processing suborder for item #%$1d (%$2s)"
+msgstr ""
+"Er is een fout opgetreden tijdens het verwerken van sub-bestelling voor item "
+"#%$1d (%$2s)"
+
+#: includes/class-yith-wcdp-suborders.php:463
+msgid "There was an error while processing suborder"
+msgstr "Er is een fout opgetreden bij het verwerken van de sub-bestelling"
+
+#: includes/class-yith-wcdp-suborders.php:487
+msgid "Failed to update balance order meta"
+msgstr "Fout bij bijwerken van de bestelling balans meta"
+
+#: includes/class-yith-wcdp-suborders.php:495
+msgid "This order has been created to allow payment of the balance"
+msgstr "Deze order is gecreëerd om saldo betalingen toe te staan"
+
+#: includes/class-yith-wcdp-suborders.php:524
+msgid "There was an error while updating item meta"
+msgstr "Er is een fout opgetreden bij het bijwerken van een item meta"
+
+#: includes/compatibility/class-yith-wcdp-yith-pdf-invoice-compatibility.php:93
+msgid "Discount for Funds Used"
+msgstr "Korting voor gebruikt kapitaal"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:30
+msgid "Admin - new deposit"
+msgstr "Admin - nieuwe aanbetaling"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:31
+msgid ""
+"This email is sent to admins when a customer creates an order in which a "
+"deposit for one or more products has been paid"
+msgstr ""
+"Deze e-mail wordt verstuurd naar admins, zodra een klant een order plaatst "
+"waarvoor een aanbetaling (voor een of meerdere producten) is betaald"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:33
+msgid "New customer deposit"
+msgstr "Nieuwe aanbetaling klant"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:34
+msgid "[{site_title}] New customer deposit ({order_number}) - {order_date}"
+msgstr ""
+"[{site_title}] Nieuwe aanbetaling klant ({order_number}) - {order_date}"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:96
+msgid "Recipient(s)"
+msgstr "Ontvanger(s)"
+
+#. translators: 1. Default receiver.
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:99
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to <code>%s</"
+"code>."
+msgstr ""
+"Vul ontangers in voor deze mail (scheiden met komma). Defaults naar <code>"
+"%s</code>."
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:104
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:120
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:178
+msgid "Subject"
+msgstr "Onderwerp"
+
+#. translators: 1. Default subject.
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:107
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:123
+msgid ""
+"This controls the email subject line. Leave it blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Dit bepaald het onderwerp veld van de e-mail. Laat het leeg om het default "
+"onderwerp te gebruiken: <code>%s</code>."
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:112
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:128
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:186
+msgid "Email Heading"
+msgstr "E-mail hoofd"
+
+#. translators: 1. Default heading.
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:115
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:131
+msgid ""
+"This controls the main heading in the notification email. Leave it blank to "
+"use the default heading: <code>%s</code>."
+msgstr ""
+"Dit bepaald het titelveld van de e-mail notificatie. Laat het leeg om de "
+"default titel te gebruiken: <code>%s</code>."
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:120
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:136
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:194
+msgid "Email type"
+msgstr "Type e-mail"
+
+#: includes/emails/class-yith-wcdp-admin-deposit-created-email.php:122
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:138
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:196
+msgid "Choose a format for the email to send."
+msgstr "Kies in welk formaat de e-mail wordt verzonden."
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:30
+msgid "New deposit created"
+msgstr "Klant aanbetaling gecreëerd"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:31
+msgid ""
+"This email is sent to customers when they create an order with one or more "
+"deposit"
+msgstr ""
+"Deze e-mail wordt verstuurd naar klanten als zij een order plaatsten met een "
+"of meer aanbetalingen"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:33
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:34
+msgid "Balance for one or more orders have to be paid"
+msgstr "Saldo voor een of meer orders moet worden betaald"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:38
+msgid ""
+"<p>Hi there. Your order #{order_number} is being currently processed, and "
+"its actual status is {order_status}.</p>\n"
+"\t\t\t\t\t<p>The following down payments can already be paid:</p>\n"
+"\t\t\t\t\t{deposit_list}"
+msgstr ""
+"<p>Hallo, je bestelling #{order_number} wordt op dit moment verwerkt, de "
+"huidige status is {order_status}.</p>\n"
+"<p>De volgende aanbetaling kan al worden voldaan:</p>\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:47
+msgid ""
+"Hi there. Your order #{order_number} is being currently processed, and its "
+"actual status is {order_status}.\n"
+"\t\t\t\t\tThe following down payments can already be paid:\n"
+"\n"
+"\t\t\t\t\t{deposit_list}"
+msgstr ""
+"Hallo, je bestelling #{order_number} wordt op dit moment verwerkt, de "
+"huidige status is {order_status}.\n"
+"De volgende aanbetaling kan al worden voldaan:\n"
+"\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:145
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:202
+msgid "Email HTML Content"
+msgstr "E-mail HTML Inhoud"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:147
+msgid ""
+"This field lets you modify the main content of the HTML email. You can use "
+"the following placeholders: <code>{order_id}</code> <code>{order_date}</"
+"code> <code>{order_state}</code> <code>{customer_name}</code> "
+"<code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code>"
+msgstr ""
+"Via deze velden kunt u de hoofd inhoud van de HTML e-mail wijzigen. U kunt "
+"gebruik maken van de volgende invulvelden: <code>{order_id}</code> "
+"<code>{order_date}</code> <code>{order_state}</code> <code>{customer_name}</"
+"code> <code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code>"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:150
+msgid ""
+"<p>Hi there. Your order #{order_number} is currently is being currently "
+"processed, and its actual status is {order_status}.</p>\n"
+"<p>The following down payments can already be paid:</p>\n"
+"{deposit_list}"
+msgstr ""
+"<p>Hallo, uw order #{order_number} wordt op dit moment verwerkt, de huidige "
+"status is {order_status}.</p>\n"
+"<p>De volgende aanbetaling kan al worden voldaan:</p>\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:159
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:215
+msgid "Email Text Content"
+msgstr "E-mail tekst inhoud"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:161
+msgid ""
+"This field lets you modify the main content of the text email. You can use "
+"the following placeholders: <code>{order_id}</code> <code>{order_date}</"
+"code> <code>{order_state}</code> <code>{customer_name}</code> "
+"<code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code>"
+msgstr ""
+"Via deze velden kunt u de hoofd inhoud van de e-mail wijzigen. U kunt "
+"gebruik maken van de volgende invulvelden: <code>{order_id}</code> "
+"<code>{order_date}</code> <code>{order_state}</code> <code>{customer_name}</"
+"code> <code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code>"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-created-email.php:164
+msgid ""
+"Hi there. Your order #{order_number} is currently is being currently "
+"processed, and its actual status is {order_status}.\n"
+"The following down payments can already be paid:\n"
+"\n"
+"{deposit_list}"
+msgstr ""
+"Hallo, je bestelling #{order_number} wordt op dit moment verwerkt, de "
+"huidige status is {order_status}.\n"
+"De volgende aanbetaling kan al worden voldaan:\n"
+"\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:30
+msgid "Deposit expiring"
+msgstr "Aanbetaling vervalt"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:31
+msgid ""
+"This email is sent to customers as notification of their deposits, before "
+"expiration"
+msgstr ""
+"Deze e-mail wordt verstuurt naar klanten, als herinnering van hun "
+"aanbetaling, voor verval"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:33
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:34
+msgid "You still have down payments that have to be paid"
+msgstr "U heeft aanbetalingen die moeten worden voldaan"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:38
+msgid ""
+"<p>Hurry up! The following down payments are expiring: you have only "
+"<strong>{days_before_expire}</strong> days left</p>\n"
+"\t\t\t\t\t{deposit_list}"
+msgstr ""
+"<p>Schiet op! De volgende aanbetalingen verlopen binnenkort: Je hebt nog "
+"<strong>{days_before_expire}</strong> dagen over</p>\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:46
+msgid ""
+"Hurry up! The following down payments are expiring: you have only "
+"{days_before_expire} days left\n"
+"\n"
+"\t\t\t\t\t{deposit_list}"
+msgstr ""
+"Schiet op! De volgende aanbetalingen verlopen binnenkort: Je hebt nog "
+"{days_before_expire} dagen over\n"
+"\n"
+"{deposit_list}"
+
+#. translators: 1. Default subject.
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:181
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Dit bepaald het onderwerp veld van de e-mail. Laat het leeg om het default "
+"onderwerp te gebruiken: <code>%s</code>."
+
+#. translators: 1. Default heading.
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:189
+msgid ""
+"This controls the main heading contained in the notification email. Leave it "
+"blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Dit bepaald het titelveld van de e-mail notificatie. Laat het leeg om de "
+"default titel te gebruiken: <code>%s</code>."
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:204
+msgid ""
+"This field lets you modify the main content of the HTML email. You can use "
+"the following placeholders: <code>{order_id}</code> <code>{order_date}</"
+"code> <code>{order_state}</code> <code>{customer_name}</code> "
+"<code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code> "
+"<code>{expiration_date}</code> <code>{days_before_expiration}</code>"
+msgstr ""
+"Via deze velden kunt je de hoofd inhoud van de HTML e-mail aanpassen. Je "
+"kunt gebruik maken van de volgende invulvelden: <code>{order_id}</code> "
+"<code>{order_date}</code> <code>{order_state}</code> <code>{customer_name}</"
+"code> <code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code> "
+"<code>{expiration_date}</code> <code>{days_before_expiration}</code>"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:207
+msgid ""
+"<p>Hurry up! The following down payments are expiring: you have only "
+"<strong>{days_before_expire}</strong> days left</p>\n"
+"{deposit_list}"
+msgstr ""
+"<p>Schiet op! De volgende aanbetalingen staan op het punt te vervallen: u "
+"heeft <strong>{days_before_expire}</strong> dagen over</p>\n"
+"{deposit_list}"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:217
+msgid ""
+"This field lets you modify the main content of the text email. You can use "
+"the following placeholders: <code>{order_id}</code> <code>{order_date}</"
+"code> <code>{order_state}</code> <code>{customer_name}</code> "
+"<code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code> "
+"<code>{expiration_date}</code> <code>{days_before_expiration}</code>"
+msgstr ""
+"Via deze velden kun je de hoofd inhoud van de e-mail aanpassen. Je kunt "
+"gebruik maken van de volgende invulvelden: <code>{order_id}</code> "
+"<code>{order_date}</code> <code>{order_state}</code> <code>{customer_name}</"
+"code> <code>{customer_login}</code> <code>{customer_email}</code> "
+"<code>{suborder_list}</code> <code>{suborder_table}</code> "
+"<code>{expiration_date}</code> <code>{days_before_expiration}</code>"
+
+#: includes/emails/class-yith-wcdp-customer-deposit-expiring-email.php:220
+msgid ""
+"Hurry up! The following down payments are expiring: you have only "
+"{days_before_expire} days left\n"
+"\n"
+"{deposit_list}"
+msgstr ""
+"Schiet op! De volgende aanbetalingen staan op het punt te vervallen: u heeft "
+"{days_before_expire} dagen over\n"
+"\n"
+"{deposit_list}"
+
+#. translators: 1. Plugin name.
+#: init.php:153
+msgid ""
+"%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+"%s is ingeschakeld maar niet effectief. Het vereist WooCommerce om te werken."
+
+#. translators: 1. Plugin name.
+#: init.php:173
+msgid ""
+"You can't activate the free version of %s while you are using the premium "
+"one."
+msgstr ""
+"U de gratis versie van %s niet activeren terwijl u de Premium One gebruikt."
+
+#: plugin-options/settings-options.php:53
+msgid "General"
+msgstr "Algemeen"
+
+#: plugin-options/settings-options.php:60
+msgid "Enable plugin features"
+msgstr "Plugin features inschakelen"
+
+#: plugin-options/settings-options.php:63
+msgid "Check this box to enable plugin"
+msgstr "Vink dit vakje aan om plugin in te schakelen"
+
+#: plugin-options/settings-options.php:69
+#: templates/admin/product-deposit-tab-premium.php:18
+#: templates/admin/product-deposit-tab.php:18
+#: templates/admin/product-deposit-variation.php:18
+msgid "Enable deposit"
+msgstr "Aanbetaling inschakelen"
+
+#: plugin-options/settings-options.php:72
+msgid ""
+"Check this option to enable deposit for all products (this behaviour can be "
+"overridden in product page)"
+msgstr ""
+"Selecteer deze optie om aanbetalingen voor alle producten in te schakelen "
+"(dit kan worden overschreven in de product pagina)"
+
+#: plugin-options/settings-options.php:78
+#: templates/admin/product-deposit-bulk-edit-premium.php:68
+#: templates/admin/product-deposit-bulk-edit.php:41
+#: templates/admin/product-deposit-tab-premium.php:63
+#: templates/admin/product-deposit-tab.php:45
+#: templates/admin/product-deposit-variation.php:63
+msgid "Force deposit"
+msgstr "Forceer aanbetaling"
+
+#: plugin-options/settings-options.php:81
+msgid ""
+"Check this option to force deposit for all the products (this behaviour can "
+"be overridden in product page)"
+msgstr ""
+"Selecteer deze optie om aanbetalingen voor alle producten te forceren (dit "
+"kan worden overschreven in de product pagina)"
+
+#: plugin-options/settings-options.php:100
+msgid "Deposit Amount"
+msgstr "Aanbetaling bedrag"
+
+#: plugin-options/settings-options.php:102
+msgid "Deposit required per product"
+msgstr "Aanbetaling noodzakelijk per product"
+
+#: plugin-options/settings-options.php:115
+msgid "Deposit virtual"
+msgstr "Virtuele aanbetaling"
+
+#: plugin-options/settings-options.php:118
+msgid ""
+"Check this option if you want your deposit products to be <b>virtual</b> "
+"(shipping, if any, will be paid on balance, for each balance order created). "
+"Otherwise deposit will use product configuration, while balance orders will "
+"contain virtual products (no shipping)"
+msgstr ""
+"Selecteer deze optie als u wilt dat uw aanbetaalde producten <b>virtueel</b> "
+"zijn (verzending, indien van toepassing, wordt berekend in rest saldo, voor "
+"elke rest saldo bestelling die wordt aangemaakt). Anderszins zullen "
+"aanbetalingen product configuratie gebruiken, terwijl rest saldo "
+"bestellingen virtuele producten bevatten (geen verzending)"
+
+#: plugin-options/settings-options.php:124
+msgid "Shipping Handling"
+msgstr "Afhandeling verzending"
+
+#: plugin-options/settings-options.php:128
+msgid ""
+"Select how to handle shipping for products that need to be shipped, when "
+"balance order switches to completed"
+msgstr ""
+"Bepaal hoe productverzending wordt afgehandeld, wanneer order status wijzigt "
+"naar compleet."
+
+#: plugin-options/settings-options.php:131
+msgid "Use default shipping method"
+msgstr "Gebruik default verzendmethode"
+
+#: plugin-options/settings-options.php:132
+msgid "Show shipping selection form to users on single product page"
+msgstr ""
+"Toon verzendselectie formulier aan gebruikers op een single product pagina"
+
+#: plugin-options/settings-options.php:133
+msgid ""
+"Select a shipping method to apply to all orders with products that require "
+"shipping"
+msgstr ""
+"Selecteer een verzendmethode om toe te passen op alle orders met producten "
+"die verzending vereisen"
+
+#: plugin-options/settings-options.php:140
+msgid "Shipping Method"
+msgstr "Verzendmethode"
+
+#: plugin-options/settings-options.php:144
+msgid "Select shipping method for products purchased with deposit"
+msgstr ""
+"Selecteer een verzendmethode voor het kopen van producten met aanbetaling"
+
+#: templates/admin/deposits-panel.php:19
+msgid "Add new user role deposit"
+msgstr "Voeg nieuwe gebruikersrol aanbetaling toe"
+
+#: templates/admin/deposits-panel.php:26
+msgid "Search for a role&hellip;"
+msgstr "Zoeken naar een rol&hellip;"
+
+#: templates/admin/deposits-panel.php:36 templates/admin/deposits-panel.php:63
+#: templates/admin/deposits-panel.php:88
+msgid "Add Deposit"
+msgstr "Aanbetaling toevoegen"
+
+#: templates/admin/deposits-panel.php:39
+msgid "User role deposits"
+msgstr "Gebruikersrol aanbetaling"
+
+#: templates/admin/deposits-panel.php:47
+msgid "Add new product deposit"
+msgstr "Voeg nieuwe product aanbetaling toe"
+
+#: templates/admin/deposits-panel.php:53
+msgid "Search for a product&hellip;"
+msgstr "Zoeken naar een product&hellip;"
+
+#: templates/admin/deposits-panel.php:66
+msgid "Product deposits"
+msgstr "Product aanbetalingen"
+
+#: templates/admin/deposits-panel.php:74
+msgid "Add new product category deposit"
+msgstr "Nieuwe product categorie aanbetaling toevoegen"
+
+#: templates/admin/deposits-panel.php:75
+msgid "Search for a category&hellip;"
+msgstr "Zoeken naar categorie&hellip;"
+
+#: templates/admin/deposits-panel.php:91
+msgid "Deposits for product categories"
+msgstr "Aanbetalingen voor productcategorieën"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:26
+#: templates/admin/product-deposit-bulk-edit.php:17
+msgid "Deposit?"
+msgstr "Aanbetaling?"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:30
+#: templates/admin/product-deposit-bulk-edit-premium.php:47
+#: templates/admin/product-deposit-bulk-edit-premium.php:65
+#: templates/admin/product-deposit-bulk-edit-premium.php:84
+#: templates/admin/product-deposit-bulk-edit.php:21
+#: templates/admin/product-deposit-bulk-edit.php:38
+#: templates/admin/product-deposit-tab-premium.php:21
+#: templates/admin/product-deposit-tab-premium.php:41
+#: templates/admin/product-deposit-tab-premium.php:58
+#: templates/admin/product-deposit-tab-premium.php:75
+#: templates/admin/product-deposit-tab-premium.php:106
+#: templates/admin/product-deposit-tab.php:21
+#: templates/admin/product-deposit-tab.php:40
+#: templates/admin/product-deposit-variation.php:21
+#: templates/admin/product-deposit-variation.php:41
+#: templates/admin/product-deposit-variation.php:58
+#: templates/admin/product-deposit-variation.php:75
+#: templates/admin/product-deposit-variation.php:104
+msgid "Default"
+msgstr "Default"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:33
+#: templates/admin/product-deposit-bulk-edit-premium.php:50
+#: templates/admin/product-deposit-bulk-edit.php:24
+#: templates/admin/product-deposit-tab-premium.php:27
+#: templates/admin/product-deposit-tab-premium.php:46
+#: templates/admin/product-deposit-tab.php:27
+#: templates/admin/product-deposit-variation.php:27
+#: templates/admin/product-deposit-variation.php:46
+msgid "Yes"
+msgstr "Ja"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:37
+#: templates/admin/product-deposit-bulk-edit-premium.php:54
+#: templates/admin/product-deposit-bulk-edit.php:27
+#: templates/admin/product-deposit-tab-premium.php:32
+#: templates/admin/product-deposit-tab-premium.php:51
+#: templates/admin/product-deposit-tab.php:31
+#: templates/admin/product-deposit-variation.php:32
+#: templates/admin/product-deposit-variation.php:51
+msgid "No"
+msgstr "Nee"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:43
+msgid "Default?"
+msgstr "Default?"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:61
+#: templates/admin/product-deposit-bulk-edit.php:34
+msgid "Force?"
+msgstr "Forceren?"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:72
+#: templates/admin/product-deposit-bulk-edit.php:44
+#: templates/admin/product-deposit-tab-premium.php:68
+#: templates/admin/product-deposit-tab.php:50
+#: templates/admin/product-deposit-variation.php:68
+msgid "Allow deposit"
+msgstr "Aanbetaling toestaan"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:80
+msgid "How to pay balance orders?"
+msgstr "Hoe betaal ik saldo bestellingen?"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:87
+#: templates/admin/product-deposit-tab-premium.php:80
+msgid "Let users pay the balance online (pending payment)"
+msgstr "Laat gebruikers saldo online betaling (betaling in behandeling)"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:91
+#: templates/admin/product-deposit-tab-premium.php:85
+msgid "Customers will pay the balance through other means (on hold)"
+msgstr "Klanten betalen de saldo's via andere middelen (in de wacht)"
+
+#: templates/admin/product-deposit-bulk-edit-premium.php:98
+msgid "Notes"
+msgstr "Notities"
+
+#: templates/admin/product-deposit-tab-premium.php:23
+#: templates/admin/product-deposit-tab.php:23
+#: templates/admin/product-deposit-variation.php:23
+msgid "Check this option to enable payment of deposit for this product"
+msgstr "Selecteer deze optie om een aanbetaling te doen voor dit product"
+
+#: templates/admin/product-deposit-tab-premium.php:38
+#: templates/admin/product-deposit-variation.php:38
+msgid "Deposit checked?"
+msgstr "Aanbetaling gecontroleerd?"
+
+#: templates/admin/product-deposit-tab-premium.php:55
+#: templates/admin/product-deposit-tab.php:37
+#: templates/admin/product-deposit-variation.php:55
+msgid "Accept or force deposit"
+msgstr "Accepteer of forceer een aanbetaling"
+
+#: templates/admin/product-deposit-tab-premium.php:90
+#: templates/admin/product-deposit-variation.php:89
+msgid "Additional product notes"
+msgstr "Aanvullende product notities"
+
+#: templates/admin/product-deposit-tab-premium.php:92
+msgid ""
+"This option overrides general option set in deposit panel; note location can "
+"be selected on plugin panel"
+msgstr ""
+"Deze optie overschrijft algemene opties ingesteld in het aanbetaling paneel; "
+"locatie notitie kan worden geselecteerd in plugin paneel"
+
+#: templates/admin/product-deposit-variation.php:72
+msgid "Create balance orders"
+msgstr "Creëer saldo orders"
+
+#: templates/admin/product-deposit-variation.php:80
+msgid "Let users pay the balance online"
+msgstr "Laat gebruikers saldo online betalen"
+
+#: templates/admin/product-deposit-variation.php:85
+msgid "Customers will pay the balance using other means"
+msgstr "Klanten zullen het saldo betalen via andere financiële middelen"
+
+#: templates/admin/product-deposit-variation.php:91
+msgid ""
+"This option is variation specific, and won't in any way affect note "
+"specified for overall product; this note will be shown in single product "
+"page, before deposit template, whenever correct variation is selected by the "
+"customer"
+msgstr ""
+"Deze optie is variatie specifiek, en zal op geen enkele wijze van invloed op "
+"de nota gespecificeerd voor het totale product; deze nota zal worden getoond "
+"in één product pagina, vóór stortings malplaatje, wanneer de correcte "
+"variatie door de klant wordt geselecteerd"
+
+#. translators: 1. Order number.
+#: templates/emails/admin-deposit-created-email.php:21
+msgid "Order #%s"
+msgstr "Order #%s"
+
+#. translators: 1. Customer full name.
+#: templates/emails/admin-deposit-created-email.php:27
+msgid ""
+"You have received an order with deposits from %s. Here you find details of "
+"full amount payments:"
+msgstr ""
+"U heeft een order met aanbetalingen ontvangen van %s. Hier vind u details "
+"van de volledige betalingen:"
+
+#: templates/emails/deposit-list.php:47
+msgid "Pay now!"
+msgstr "Betaal nu!"
+
+#: templates/emails/deposit-table.php:18
+msgid "Suborder"
+msgstr "Sub-order"
+
+#: templates/emails/deposit-table.php:20 templates/my-deposits.php:35
+#: templates/my-deposits.php:57
+msgid "Status"
+msgstr "Status"
+
+#: templates/emails/deposit-table.php:21
+msgid "Total"
+msgstr "Totaal"
+
+#: templates/emails/deposit-table.php:71
+msgid "Total paid:"
+msgstr "Totaal betaald:"
+
+#: templates/emails/deposit-table.php:75
+msgid "Total to be paid:"
+msgstr "Totaal te betalen:"
+
+#. translators: 1. Formatted customer name.
+#: templates/emails/plain/admin-deposit-created-email.php:17
+msgid ""
+"You have received an order with deposits from %s. This is the detail of full "
+"amount payments:"
+msgstr ""
+"U heeft een order met aanbetaling ontvangen van %s. Dit zijn de details van "
+"de volledige betalingen:"
+
+#. translators: 1. Order number.
+#: templates/emails/plain/admin-deposit-created-email.php:22
+msgid "Order number: %s"
+msgstr "Order nummer: %s"
+
+#: templates/emails/plain/admin-deposit-created-email.php:25
+msgid "Deposits:"
+msgstr "Aanbetalingen:"
+
+#. translators: 1. View order url.
+#: templates/emails/plain/admin-deposit-created-email.php:30
+msgid "View order: %s"
+msgstr "Bekijk order: %s"
+
+#: templates/emails/plain/deposit-list.php:35
+msgid "Payment url:"
+msgstr "Betaling url:"
+
+#: templates/emails/plain/deposit-table.php:38 templates/my-deposits.php:33
+#: templates/my-deposits.php:45
+msgid "Order"
+msgstr "Order"
+
+#: templates/emails/plain/deposit-table.php:48
+msgid "Total paid"
+msgstr "Totaal betaald"
+
+#: templates/emails/plain/deposit-table.php:49
+msgid "Total to pay"
+msgstr "Totaal te betalen"
+
+#. translators: 1. Deposit label.
+#: templates/my-deposits.php:20
+msgid "%s Details"
+msgstr "%s Details"
+
+#. translators: 1. Deposit label.
+#: templates/my-deposits.php:26
+msgid ""
+"Some products in this order have been bought with %s. In order to complete "
+"the transaction and to ship the products, all remaining amounts have to be "
+"paid. Here follow details with owned balance for items in this order:"
+msgstr ""
+"Enkele producten in deze order zijn gekocht met %s. Om de order af te ronden "
+"en de producten te verzenden, moeten alle openstaande bedragen zijn voldaan. "
+"Volg deze details met saldo bezit voor de items in deze order:"
+
+#: templates/my-deposits.php:36 templates/my-deposits.php:60
+msgid "Paid"
+msgstr "Betaald"
+
+#: templates/my-deposits.php:37 templates/my-deposits.php:81
+msgid "To be paid"
+msgstr "Te betalen"
+
+#: templates/my-deposits.php:64
+msgid "Subtotal: "
+msgstr "Sub-totaal: "
+
+#: templates/my-deposits.php:68
+msgid "Discount: "
+msgstr "Korting: "
+
+#: templates/my-deposits.php:72
+msgid "Shipping: "
+msgstr "Verzending:"
+
+#: templates/my-deposits.php:76
+msgid "Taxes: "
+msgstr "Belastingen:"
+
+#: templates/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr "Verzending berekenen"
+
+#: templates/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land&hellip;"
+
+#: templates/shipping-calculator.php:48 templates/shipping-calculator.php:53
+msgid "State / county"
+msgstr "Land/Staat"
+
+#: templates/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr "Selecteer een staat&hellip;"
+
+#: templates/shipping-calculator.php:67
+msgid "State / County"
+msgstr "Land/Staat"
+
+#: templates/shipping-calculator.php:76
+msgid "City"
+msgstr "Woonplaats"
+
+#: templates/shipping-calculator.php:84
+msgid "Postcode / ZIP"
+msgstr "Postcode"
+
+#: templates/shipping-calculator.php:89
+msgid "Update Shipping Methods"
+msgstr "Update verzendmethoden"
+
+#. translators: 1. Deposit value.
+#: templates/single-add-deposit-to-cart.php:31
+msgid ""
+"This action will let you pay a deposit of <span class=\"deposit-price\">%s</"
+"span> for this product"
+msgstr ""
+"Deze actie laat u een aanbetaling van <span class=\"deposit-price\">%s</"
+"span> betalen voor dit product"
+
+#: templates/single-add-deposit-to-cart.php:38
+msgid ""
+"Please, select a shipping method for delivery of your product when balance "
+"is paid"
+msgstr ""
+"Selecteer een verzendmethode voor de levering van uw product, wanneer saldo "
+"is betaald"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Deposits and Down Payments</strong></code> "
+"allows your customers to make a deposit for the products they want to "
+"purchase and to pay the balance only at a later time, either online or in "
+"your shop. Giving your customers the possibility to book a room or to "
+"confirm a service on demand, like a party room or the reservation for a "
+"tour, has never been so easy. <a href=\"https://yithemes.com/\" target="
+"\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+"<code><strong>YITH WooCommerce Deposits and Down Payments</strong></code> "
+"laat je klanten een aanbetaling doen voor producten die ze willen kopen. Ze "
+"kunnen op  een later moment het volledige saldo betalen online of in je "
+"winkel. Geef je klanten de mogelijkheid om een kamer te boeken of een dienst "
+"op aanvraag te bevestigen, zoals een feestzaal of het reserveren van een "
+"rondleiding, Het was nog nooit zo eenvoudig. <a href=\"https://yithemes.com/"
+"\" target=\"_blank\">Verkrijg meer plugins voor je e-commerce op "
+"<strong>YITH</strong></a>"
+
+#: includes/class-yith-wcdp-admin.php:607
+msgctxt "Admin: column heading in \"Orders\" table"
+msgid "Balances"
+msgstr "Saldo´s"
+
+#: includes/class-yith-wcdp-admin.php:717
+msgctxt "Admin: Single order page. Suborder details box"
+msgid "Balance Orders"
+msgstr "Saldo orders"
+
+#: includes/class-yith-wcdp-admin.php:731
+msgctxt "Admin: Single order page. Info box with parent order details"
+msgid "Deposit order"
+msgstr "Aanbetaling order"
+
+#: includes/class-yith-wcdp-admin.php:794
+msgctxt "Admin: single order page. Link to parent order"
+msgid "Back to main order"
+msgstr "Terug naar hoofd order"

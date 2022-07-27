@@ -1,0 +1,16 @@
+Version 1.2.0
+Released on 26th July 2021
+- Added support for new Auth0 Authentication
+
+Version 1.1.3
+Released on 12th November 2020
+- Added SecurePay declined error message to order note
+
+Version 1.1.1
+Released on 15th September 2020
+- Resized SecurePay logo
+
+Version 1.1
+Released on 1st September 2020
+- Add WooCommerce debug log
+- Initialise frontend iframe only once to avoid error

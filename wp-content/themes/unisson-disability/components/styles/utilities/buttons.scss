@@ -1,0 +1,63 @@
+.btn {
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-width: 195px;
+    height: 50px;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 30px;
+    font-size: 1.8rem;
+    font-weight: 500;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: none;
+    }
+
+    &-yellow {
+        color: $color-purple;
+        background-color: $color-yellow;
+
+        &.custom-dropdown-btn::after {
+            border-color: $color-purple;
+        }
+    }
+
+    &-purple {
+        color: #fff;
+        background-color: $color-purple;
+
+        &.custom-dropdown-btn::after {
+            border-color: #fff;
+        }
+    }
+
+    &-orange {
+        color: #fff;
+        background-color: $color-orange;
+
+        &.custom-dropdown-btn::after {
+            border-color: #fff;
+        }
+    }
+
+    .icon {
+        margin-right: 8px;
+    }
+}
+
+.reset-btn {
+    font-size: 2.1rem;
+    font-weight: 500;
+    background-color: transparent;
+    border: 0;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.high-contrast .btn {
+    color: #fff !important;
+    background-color: $color-black !important;
+}

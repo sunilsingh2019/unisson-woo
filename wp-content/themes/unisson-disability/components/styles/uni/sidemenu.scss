@@ -1,0 +1,124 @@
+.sidemenu {
+    z-index: 99;
+    position: fixed;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: $color-gray-1;
+    padding: 24px 0 96px;
+    max-height: calc(100vh - 80px);
+    overflow-y: auto;
+    transition: left .3s ease-out;
+
+    &:not(.toggled) {
+        left: -101vw;
+        opacity: 0;
+        transition: all .3s ease-out;
+    }
+
+    // @media (min-width: 1201px) {
+    //     display: none;
+    // }
+
+    &-search {
+        margin-bottom: 24px;
+    }
+
+    &-blocklinks {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 42px;
+    }
+
+    .header-search {
+        input:not([type="submit"]) {
+            font-size: 1.2rem;
+            font-weight: 500;
+
+            &::placeholder {
+                font-weight: 500;
+                color: $color-black-light;
+            }
+        }
+    }
+
+    .header-myaccount {
+        .custom-dropdown-btn {
+            &::after {
+                display: none;
+            }
+
+            .text {
+                font-size: 1.4rem;
+                color: $color-orange;
+                text-transform: uppercase;
+                padding-left: 15px;
+            }
+        }
+    }
+
+    .header-cart {
+
+        .text,
+        .num {
+            color: $color-black;
+        }
+    }
+
+    .navul {
+        flex-flow: column;
+
+        >li {
+            width: 100%;
+
+            >a {
+                font-size: 1.4rem;
+                font-weight: 500;
+                color: $color-purple;
+                padding: 16px 0;
+            }
+
+            &.has-megamenu {
+                >a {
+                    display: flex;
+                    align-items: center;
+
+                    &::after {
+                        content: "";
+                        display: inline-block;
+                        width: 8px;
+                        height: 8px;
+                        margin-left: auto;
+                        border: 2px solid $color-purple;
+                        border-width: 0 0 2px 2px;
+                        transform: rotate(-45deg);
+                    }
+                }
+            }
+
+            .megamenu {
+                position: relative;
+                top: auto;
+                left: auto;
+                background-color: transparent;
+                padding: 0;
+
+                li {
+                    padding: 16px 0 10px;
+
+                    &:not(:last-child) {
+                        margin-bottom: 0;
+                    }
+
+                    a {
+                        color: $color-black-light;
+                        line-height: normal;
+                    }
+                }
+            }
+        }
+    }
+}

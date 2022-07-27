@@ -1,0 +1,31 @@
+<?php
+/**
+ * SecurePay admin buttons
+ *
+ * @package Securepayapi
+ */
+
+/**
+ * Variables
+ *
+ * @var array         $paymentInstruments Payment Instrument list.
+ * @var WC_Secure_Pay $this               Plugin Object.
+ */
+
+?>
+
+<button class="button authorize-action" type="button" name="capture">Capture Payment</button>
+<button class="button authorize-action" type="button" name="cancel">Cancel Payment</button>
+<input type="hidden" style="display: none" name="authorize_action">
+<input type="hidden" hidden style="display: none"
+	   name="<?php echo esc_html( $this::SECUREPAYAPI_NONCE ); ?>"
+	   value="<?php echo esc_html( wp_create_nonce( $this::SECUREPAYAPI_NONCE ) ); ?>">
+
+<script>
+	jQuery(function ($) {
+		$('.authorize-action').on('click', function () {
+			$('input[name=authorize_action]').val($(this).attr('name'));
+			document.post.submit();
+		});
+	});
+</script>

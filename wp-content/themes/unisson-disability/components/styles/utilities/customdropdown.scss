@@ -1,0 +1,105 @@
+.custom-dropdown,
+.checkbox-dropdown {
+    z-index: 2;
+    position: relative;
+
+    &-btn {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        transition: all .3s ease-out;
+
+        &::after {
+            content: "";
+            width: 6px;
+            height: 6px;
+            border: 2px solid $color-black;
+            border-width: 0 0 2px 2px;
+            transform: rotate(-45deg);
+            transform-origin: 50% 50%;
+            margin-left: 11px;
+            transition: all .3s ease-out;
+        }
+    }
+
+    &-list {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        min-width: 100%;
+        background-color: #fff;
+        display: none;
+
+        ul {
+            padding: 10px 15px;
+            margin-bottom: 0;
+        }
+
+        li {
+            padding: 10px 0;
+            margin-bottom: 0;
+
+            &:not(:last-child) {
+                border-bottom: 1px solid rgba(#000, .1);
+            }
+        }
+    }
+
+    &.toggled {
+        z-index: 99;
+
+        >.custom-dropdown {
+            &-btn {
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+
+                &::after {
+                    transform: rotate(135deg) translate(25%, -25%);
+                }
+            }
+        }
+    }
+}
+
+.checkbox-dropdown {
+    &-btn {
+        cursor: pointer;
+
+        &::after {
+            display: none;
+        }
+
+        label {
+            &::after {
+                content: "";
+                display: inline-block;
+                width: 15px;
+                height: 12px;
+                background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNC40NjIiIGhlaWdodD0iOC43MzEiIHZpZXdCb3g9IjAgMCAxNC40NjIgOC43MzEiPg0KICA8cGF0aCBpZD0iUGF0aF8yNDkiIGRhdGEtbmFtZT0iUGF0aCAyNDkiIGQ9Ik0tMjAwMy45Nyw1MzgxLjVsNS4xMSw1LjExLDUuMTA5LTUuMTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xOTkxLjYzIDUzODguMTEpIHJvdGF0ZSgxODApIiBmaWxsPSJub25lIiBzdHJva2U9IiM3MDcwNzAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIi8+DQo8L3N2Zz4NCg==");
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: contain;
+                transform: rotate(180deg);
+                margin-left: 15.4px;
+            }
+        }
+    }
+
+    &.open>.checkbox-dropdown-btn label::after {
+        transform: rotate(0deg) !important;
+    }
+
+    &.no-list {
+        .checkbox-dropdown-btn label::after {
+            display: none;
+        }
+    }
+
+    &-list {
+        position: relative;
+        top: auto;
+        right: auto;
+        min-width: auto;
+        width: 100%;
+    }
+}

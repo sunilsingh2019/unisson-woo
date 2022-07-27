@@ -1,0 +1,77 @@
+$color-purple: #650D6B;
+$color-purple-light: #B285B7;
+$color-yellow: #FCC412;
+$color-orange: #FF6926;
+$color-red: #d32f2f;
+
+$color-black: #222222;
+$color-black-1: #3C3C3C;
+$color-black-2: #4D4D4D;
+$color-black-3: #707070;
+
+$color-medium-gray: #999;
+$color-black-light: #6D6E71;
+
+$color-white: #fff;
+
+$color-border: #ddddde;
+
+$color-gray: #F1F1F2;
+$color-gray-1: #F9F9FA;
+$color-gray-2: #D1D1D1;
+
+.color {
+    &-yellow {
+        color: $color-yellow !important;
+    }
+
+    &-orange {
+        color: $color-orange !important;
+    }
+
+    &-purple {
+        color: $color-purple !important;
+    }
+
+    &-black {
+        color: $color-black !important;
+    }
+
+    &-white {
+        color: $color-white !important;
+    }
+
+    &-gray {
+        color: $color-gray !important;
+    }
+}
+
+.high-contrast [class*="color-"] {
+    color: $color-black !important;
+}
+
+.bgcolor {
+    &-yellow {
+        background-color: $color-yellow !important;
+    }
+
+    &-orange {
+        background-color: $color-orange !important;
+    }
+
+    &-purple {
+        background-color: $color-purple !important;
+    }
+
+    &-black {
+        background-color: $color-black !important;
+    }
+
+    &-white {
+        background-color: $color-white !important;
+    }
+
+    &-gray {
+        background-color: $color-gray !important;
+    }
+}

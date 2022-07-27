@@ -1,0 +1,35 @@
+.ctafooter {
+    text-align: center;
+    padding: 55px 40px 62px;
+    border-radius: 60px;
+    color: $color-black;
+    background-color: $color-yellow;
+
+    // margin-bottom: -54px;
+    @media (max-width: 767px) {
+        padding: 62px 24px;
+    }
+
+    &.bgcolor-orange {
+        color: #fff;
+    }
+
+    &--section {
+        padding: 112px 0;
+    }
+
+    .heading {
+        font-size: 3.5rem;
+        font-weight: 700;
+        margin-bottom: 38px;
+
+        @media (max-width: 767px) {
+            font-size: 2.2rem;
+            margin-bottom: 22px;
+        }
+    }
+
+    .btn {
+        min-width: 207px;
+    }
+}

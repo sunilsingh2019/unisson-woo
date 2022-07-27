@@ -1,0 +1,238 @@
+2022-06-08T01:21:26+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:21:30+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:21:41+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:21:47+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:05+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:05+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:05+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:07+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:07+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:08+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:08+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:08+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T01:23:09+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:330
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): changeReseturl('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(3058): do_action('wp_footer')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/footer.php(125): wp_footer()
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/unissondisability-woo/wp-includes/general-template.php(92): locate_templa in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 330
+
+2022-06-08T23:45:46+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:15
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 15
+
+2022-06-08T23:51:18+00:00 CRITICAL Uncaught Error: Call to a member function get_product_id() on string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:16
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sun in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 16
+
+2022-06-08T23:51:59+00:00 CRITICAL Uncaught Error: Call to a member function get_product_id() on string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:16
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sun in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 16
+
+2022-06-08T23:52:01+00:00 CRITICAL Uncaught Error: Call to a member function get_product_id() on string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:16
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sun in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 16
+

@@ -1,0 +1,77 @@
+2022-06-14T23:49:51+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:49:56+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:50:11+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:50:12+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:50:30+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:50:33+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+
+2022-06-14T23:58:53+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_not_logged_in() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php:28
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): unisson_disability_body_classes(Array)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(191): WP_Hook->apply_filters(Array, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/header.php(34): body_class('woocommerce')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(770): require_once('/Users/sunil/Si...')
+#6 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(716): load_template('/Users/sunil/Si...', true, Array)
+#7 /Users/sunil/Sites/u in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/template-functions.php on line 28
+

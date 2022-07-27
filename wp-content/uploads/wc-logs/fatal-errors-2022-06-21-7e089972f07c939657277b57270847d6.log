@@ -1,0 +1,2 @@
+2022-06-21T09:22:15+00:00 CRITICAL Cannot redeclare my_ajax_pagination() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/scripts.php:30) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/scripts.php on line 43
+

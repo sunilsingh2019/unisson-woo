@@ -1,0 +1,64 @@
+2022-05-17T23:38:30+00:00 CRITICAL Uncaught Error: Call to undefined function nt_product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:08+00:00 CRITICAL Uncaught Error: Call to undefined function nt_product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:09+00:00 CRITICAL Uncaught Error: Call to undefined function nt_product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:10+00:00 CRITICAL Uncaught Error: Call to undefined function nt_product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:42+00:00 CRITICAL Uncaught Error: Call to undefined function product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:43+00:00 CRITICAL Uncaught Error: Call to undefined function product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:43+00:00 CRITICAL Uncaught Error: Call to undefined function product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+
+2022-05-17T23:39:44+00:00 CRITICAL Uncaught Error: Call to undefined function product_attributes() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php:34
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/search.php on line 34
+

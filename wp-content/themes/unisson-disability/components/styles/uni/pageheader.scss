@@ -1,0 +1,133 @@
+.pageheader {
+    @media (max-width: 991px) {
+        padding-bottom: 110px;
+    }
+
+    &--section {
+        height: 411px;
+        background-color: $color-yellow;
+        padding: 44px 0 0;
+
+        @media (max-width: 991px) {
+            height: auto;
+            min-height: initial;
+        }
+    }
+
+    .breadcrumb {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 28px;
+
+        @media (max-width: 991px) {
+            margin-bottom: 17px;
+        }
+
+        li {
+            color: $color-black;
+            font-size: 1.8rem;
+            font-weight: 500;
+            padding-left: 0;
+            margin-bottom: 0;
+
+            @media (max-width: 991px) {
+                font-size: 1.4rem;
+            }
+
+            &:not(:first-child) {
+                &::before {
+                    content: "-";
+                    margin: 0 6px;
+                }
+            }
+
+            &:last-child {
+                color: $color-purple;
+                font-weight: 700;
+            }
+
+            a {
+                &:hover {
+                    color: $color-purple;
+                }
+            }
+        }
+    }
+
+    h5 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin: 0;
+
+        @media (max-width: 991px) {
+            font-size: 2.4rem;
+        }
+    }
+
+    .term {
+        color: $color-purple;
+
+        &::before {
+            content: '“';
+        }
+
+        &::after {
+            content: '”';
+        }
+    }
+}
+
+.pageheader--pullup {
+    z-index: 1;
+    padding-top: 0;
+    margin-top: -243px;
+    background-color: transparent !important;
+
+    @media (max-width: 991px) {
+        margin-top: -110px;
+    }
+
+    @media (max-width: 767px) {
+        // margin-top: -180px;
+    }
+
+    &::before {
+        content: "";
+        z-index: -1;
+        position: absolute;
+        top: 120px;
+        left: 0;
+        width: 100%;
+        height: calc(100% - 120px);
+        background-color: $color-gray;
+        border-radius: 130px 130px 0 0;
+
+        @media (max-width: 991px) {
+            border-radius: 50px 50px 0 0;
+        }
+    }
+
+    &.bgcolor-white::before {
+        background-color: #fff;
+    }
+
+    &.bgcolor-orange::before {
+        background-color: $color-orange;
+    }
+}
+
+.pageheader--section-none {
+    padding: 44px 0;
+    height: auto;
+    color: $color-black;
+    background-color: #fff;
+
+    @media (max-width: 991px) {
+        min-height: auto;
+
+        .pageheader {
+            padding-bottom: 0;
+        }
+    }
+}

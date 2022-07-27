@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="60" viewBox="0 0 61 60">
+  <g id="Group_127" data-name="Group 127" transform="translate(-0.388)">
+    <ellipse id="Ellipse_73" data-name="Ellipse 73" cx="30.5" cy="30" rx="30.5" ry="30" transform="translate(0.388 0)" fill="#ff6926"/>
+    <g id="XMLID_13_" transform="translate(15.269 14.861)">
+      <path id="XMLID_17_" d="M20.977,0H8.9A8.911,8.911,0,0,0,0,8.9V20.977a8.911,8.911,0,0,0,8.9,8.9H20.977a8.911,8.911,0,0,0,8.9-8.9V8.9A8.911,8.911,0,0,0,20.977,0Zm5.9,20.977a5.9,5.9,0,0,1-5.9,5.9H8.9a5.9,5.9,0,0,1-5.9-5.9V8.9a5.9,5.9,0,0,1,5.9-5.9H20.977a5.9,5.9,0,0,1,5.9,5.9V20.977Z" fill="#fff"/>
+      <path id="XMLID_81_" d="M140.728,133a7.728,7.728,0,1,0,7.728,7.728A7.736,7.736,0,0,0,140.728,133Zm0,12.449a4.722,4.722,0,1,1,4.722-4.722A4.722,4.722,0,0,1,140.728,145.449Z" transform="translate(-125.788 -125.788)" fill="#fff"/>
+      <ellipse id="XMLID_83_" cx="1.852" cy="1.852" rx="1.852" ry="1.852" transform="translate(20.83 5.418)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

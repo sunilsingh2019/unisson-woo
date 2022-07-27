@@ -1,0 +1,178 @@
+2022-07-11T07:47:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:47:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:47:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:04+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:13+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:13+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:13+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:13+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:50:44+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:51:37+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:51:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:51:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:51:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 21
+
+2022-07-11T07:53:50+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php:118
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(149): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_ in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php on line 118
+
+2022-07-11T07:54:39+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php:118
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(149): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_ in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php on line 118
+
+2022-07-11T07:55:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php:117
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(149): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Use in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php on line 117
+
+2022-07-11T07:56:04+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php:117
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(149): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Use in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module-ajax.php on line 117
+

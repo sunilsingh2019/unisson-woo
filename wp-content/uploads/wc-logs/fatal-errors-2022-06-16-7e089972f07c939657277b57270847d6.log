@@ -1,0 +1,62 @@
+2022-06-16T02:31:05+00:00 CRITICAL syntax error, unexpected ''</h4>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 15
+
+2022-06-16T02:31:05+00:00 CRITICAL syntax error, unexpected ''</h4>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 15
+
+2022-06-16T02:57:43+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:43+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:43+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:43+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:43+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T02:57:45+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T03:28:09+00:00 CRITICAL require(): Failed opening required '/Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php' (include_path='.:/opt/homebrew/Cellar/php@7.4/7.4.27/share/php@7.4/pear') in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php on line 290
+
+2022-06-16T22:56:56+00:00 CRITICAL Uncaught Error: Call to a member function get_quantity() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:407
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): customise_checkout_field_update_order_meta(981)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(398): do_action('woocommerce_che...', 981, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1183): WC_Checkout->create_order(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#6 /Users/sunil/Sites/unissondisability in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 407
+
+2022-06-16T22:57:38+00:00 CRITICAL Uncaught Error: Call to a member function get_quantity() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:407
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): customise_checkout_field_update_order_meta(982)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(398): do_action('woocommerce_che...', 982, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1183): WC_Checkout->create_order(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#6 /Users/sunil/Sites/unissondisability in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 407
+
+2022-06-16T22:58:07+00:00 CRITICAL Uncaught Error: Call to a member function get_quantity() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:407
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): customise_checkout_field_update_order_meta(983)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(398): do_action('woocommerce_che...', 983, Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1183): WC_Checkout->create_order(Array)
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(461): WC_Checkout->process_checkout()
+#6 /Users/sunil/Sites/unissondisability in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 407
+

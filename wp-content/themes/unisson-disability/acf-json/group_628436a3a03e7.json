@@ -1,0 +1,77 @@
+{
+    "key": "group_628436a3a03e7",
+    "title": "Date",
+    "fields": [
+        {
+            "key": "field_6284373422ef7",
+            "label": "Tour Dates",
+            "name": "",
+            "type": "accordion",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "open": 0,
+            "multi_expand": 0,
+            "endpoint": 0
+        },
+        {
+            "key": "field_628436bce29c7",
+            "label": "Tour Start Date",
+            "name": "tour_start_date",
+            "type": "date_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "display_format": "F j, Y",
+            "return_format": "F j, Y",
+            "first_day": 1
+        },
+        {
+            "key": "field_628436cce29c8",
+            "label": "Tour End Date",
+            "name": "tour_end_date",
+            "type": "date_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "display_format": "F j, Y",
+            "return_format": "F j, Y",
+            "first_day": 1
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1652856278,
+    "local_file": "\/Users\/sunil\/Sites\/unissondisability-woo\/wp-content\/themes\/unisson-disability\/acf-json\/group_628436a3a03e7.json"
+}

@@ -1,0 +1,18 @@
+2022-06-22T04:45:56+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:167
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(187): do_action('wp_ajax_filter')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 167
+
+2022-06-22T04:46:17+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php:167
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): filter_ajax('')
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-admin/admin-ajax.php(187): do_action('wp_ajax_filter')
+#4 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/filter.php on line 167
+

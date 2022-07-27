@@ -1,0 +1,18 @@
+2022-06-28T12:11:42+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:551
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): my_custom_checkout_field_order_meta_keys(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-con in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 551
+
+2022-06-28T12:11:43+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:551
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): my_custom_checkout_field_order_meta_keys(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/order/order-details.php(100): do_action('woocommerce_ord...', Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-con in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php on line 551
+

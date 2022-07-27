@@ -1,0 +1,268 @@
+section.top-nav .tools .accessibility-bar{
+    position: relative;
+    margin-right: 10px;
+    .button-accessibility{
+        display: block;
+        z-index: 10;
+        position: relative;
+        padding-right:60px;
+        cursor: pointer;
+        &:after{
+            position: absolute;
+            content:'';
+            right: 30px;
+            top: 17px;
+            width: 8px;
+            height: 8px;
+            border-left:1px solid #fff;
+            border-bottom: 1px solid #fff;
+            transform: rotate(-45deg);
+        }
+        &:hover,
+        &:focus{
+            background: $color-purple;
+            opacity: 0.9;
+        }
+        &.clicked{
+            &:after{
+                transform: rotate(-225deg);
+                top: 22px;  
+            }
+        }
+    }
+    .accessibility-list{
+        position: absolute;
+        z-index: 5;
+        width: 270px;
+        left: 0;
+        top: 0;
+        margin: 0;
+        padding:65px 15px 10px;
+        display: none;
+        background:$color-purple;
+        text-align: left;
+        text-transform: uppercase;
+        // styling all the <a> tags inside the accessibility option
+        a{
+            display: block;
+            padding:15px 10px 15px 50px;
+            position: relative;
+            color:#fff;
+            &:before{
+                position: absolute;
+                content:'';
+                left: 0;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+            &:focus{
+                outline: none !important;
+                outline-offset: 0;
+                box-shadow: none !important;
+            }
+        }
+        // styling the contrast option separately because it is a separate div
+        .accessibility-row.high-contrast a{
+            &:before{
+                width: 23px;
+                height: 23px;
+                background: url(images/icon-contrast.png) no-repeat;
+                background-size: contain;
+            }
+            &:hover{
+                &:before{
+                    background: url(images/icon-contrast-hover.png) no-repeat;
+                    background-size: contain;
+                }
+            }
+            &.enabled{
+                &:after{
+                    position: absolute;
+                    content: '\2713';
+                    right: 0;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    font-size: 15px;
+                }
+            }
+        }
+        // styling all the text options
+        nav{
+            ul{
+                margin: 0;
+                padding: 0; 
+                li{
+                    position: relative;
+                    border-top:1px solid #fff;
+                    a{
+                        &.larger-text{
+                            &:before{
+                                width: 30px;
+                                height: 20px;
+                                background: url(images/icon-large-text.png) no-repeat;
+                                background-size: contain;
+                            }
+                            &:hover{
+                                &:before{
+                                    background: url(images/icon-large-text-hover.png) no-repeat;
+                                    background-size: contain;
+                                }
+                            }
+                            &.max{
+                                pointer-events:none;
+                                opacity: 0.7;
+                            }
+                            &.enabled{
+                                &:after{
+                                    position: absolute;
+                                    content: '\2713';
+                                    right: 0;
+                                    top: 50%;
+                                    transform: translateY(-50%);
+                                    font-size: 15px;
+                                }
+                            }
+                        }
+                        &.smaller-text{
+                            &:before{
+                                width: 30px;
+                                height: 20px; 
+                                background: url(images/icon-small-text.png) no-repeat;
+                                background-size: contain;
+                            }
+                            &:hover{
+                                &:before{
+                                    background: url(images/icon-small-text-hover.png) no-repeat;
+                                    background-size: contain;
+                                }
+                            }
+                            &.min{
+                                pointer-events:none;
+                                opacity: 0.7;
+                            }
+                        }
+                        &.dyslexic-font{
+                            &:before{
+                                width: 20px;
+                                height: 20px;
+                                background: url(images/icon-dyslexic.png) no-repeat;
+                                background-size: contain;
+                            }
+                            &:hover{
+                                &:before{
+                                    background: url(images/icon-dyslexic-hover.png) no-repeat;
+                                    background-size: contain;
+                                }
+                            }
+                            &.enabled{
+                                &:after{
+                                    position: absolute;
+                                    content: '\2713';
+                                    right: 0;
+                                    top: 50%;
+                                    transform: translateY(-50%);
+                                    font-size: 15px;
+                                }
+                            }
+                        }
+                        /* &.google-translate{
+                            &:before{
+                                width: 23px;
+                                height: 23px;
+                                background: url(images/icon-translate.png) no-repeat;
+                                background-size: contain;
+                            }
+                            &:hover{
+                                &:before{
+                                    background: url(images/icon-translate-hover.png) no-repeat;
+                                    background-size: contain;
+                                }
+                            }
+                        } */
+                    }
+                    &:after{
+                        position: absolute;
+                        content:'';
+                        height: 3px;
+                        left: 0;
+                        bottom: 0;
+                        width: 0;
+                        background:#fff;
+                        transition: width 0.2s;
+                    }
+                    &.smallest{
+                        &:after{width: 33.33%;}
+                    }
+                    &.medium{
+                        &:after{width: 66.66%;}
+                    }
+                    &.large{
+                        &:after{width: 100%;}
+                    }
+                }      
+            }
+        }
+        // styling for the custom google translate select
+        .google-translate{
+            .jcf-select{
+                display: block;
+                width: 100%;
+                position: relative;
+                color:#000;
+                background:$color-purple;
+                border:none;
+                border-top:1px solid #fff;
+                height:auto;
+                margin: 0;
+                cursor: pointer;
+                text-align: left;
+                select{
+                    cursor: pointer;
+                }
+                .jcf-select-text{
+                    color:#fff;
+                    margin: 0;
+                    display: block;
+                    padding:15px 10px 15px 50px;
+                }
+                .jcf-select-opener{
+                    position: absolute;
+                    content:'';
+                    left: 0;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    width: 23px;
+                    height: 23px;
+                    background: url(images/icon-translate.png) no-repeat;
+                    background-size: contain;
+                }
+                &:hover{
+                    .jcf-select-opener{
+                        background: url(images/icon-translate-hover.png) no-repeat;
+                        background-size: contain;
+                    }
+                }
+            }
+        }
+        .accessibility-reset{
+            border-top: 1px solid #fff;
+            .btn-reset{
+                position: relative;
+                &:before{
+                    position: absolute;
+                    content:'';
+                    background: url(images/icon-reset.png) no-repeat;
+                    width: 23px;
+                    height: 23px;
+                    background-size: contain;
+                }
+                &:hover{
+                    &:before{
+                        background: url(images/icon-reset-hover.png) no-repeat;
+                        background-size: contain;
+                    }
+                }
+            }
+        }
+    }
+}

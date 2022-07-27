@@ -1,0 +1,490 @@
+body.high-contrast {
+    color: $color-black;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    filter: grayscale(100%);
+
+    img {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #000;
+    }
+
+    a {
+        color: $color-black;
+    }
+
+    .button,
+    .button-primary,
+    .button-secondary,
+    .button-3 {
+        background: $color-black;
+        color: #fff;
+
+        &:hover,
+        &:focus {
+            background: $color-black-light;
+            color: #fff;
+        }
+    }
+
+    .continue-reading {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    .more-block .pager li > a,
+    .more-block .pager li > span,
+    .content-overview .field--type-link a {
+        background: $color-black;
+        color: #fff;
+
+        &:hover,
+        &:focus {
+            background: $color-black-light;
+            color: #fff;
+        }
+    }
+
+    input[type="text"],
+    input[type="search"],
+    input[type="email"],
+    input[type="password"],
+    input[type="tel"],
+    input[type="number"],
+    textarea {
+        color: #000;
+    }
+
+    ::placeholder {
+        color: #000;
+    }
+
+    :-ms-input-placeholder {
+        color: #000;
+    }
+
+    ::-ms-input-placeholder {
+        color: #000;
+    }
+
+    .navul > li.list-programs > a {
+        color: $color-black !important;
+    }
+
+    section.main-nav ul.primary > li.active a,
+    section.main-nav ul.primary > li.menu-item--active-trail a {
+        color: #000;
+        border-bottom: 3px solid #000;
+    }
+
+    section.main-nav ul.submenu a:hover i {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+        opacity: 0.5;
+    }
+
+    section.top-nav .tools .accessibility-bar {
+        .button-accessibility {
+            &:hover,
+            &:focus {
+                background: $color-black;
+                color: #fff;
+            }
+        }
+
+        .accessibility-list {
+            background: $color-black;
+
+            .google-translate .jcf-select {
+                background: $color-black;
+            }
+
+            a:hover {
+                &:before {
+                    -webkit-filter: grayscale(100);
+                    filter: grayscale(100);
+                }
+            }
+
+            .google-translate .jcf-select:hover .jcf-select-opener {
+                -webkit-filter: grayscale(100);
+                filter: grayscale(100);
+            }
+        }
+    }
+
+    .contact ul.menu li a {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    section.home-slider {
+        li.home-slide-bg {
+            -webkit-filter: grayscale(100);
+            filter: grayscale(100);
+
+            .slide-text h2 {
+                color: $color-black;
+            }
+        }
+
+        .flex-control-nav {
+            li {
+                a {
+                    border-color: $color-black;
+
+                    &:hover,
+                    &.flex-active {
+                        background: $color-black;
+                    }
+                }
+            }
+        }
+    }
+
+    section.title-header {
+        background: $color-medium-gray;
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+
+        &:after {
+            display: none;
+        }
+    }
+
+    .column-content {
+        .text-holder {
+            .number {
+                color: $color-black-light;
+            }
+        }
+    }
+
+    .info-block {
+        &:before {
+            background: $color-black;
+        }
+
+        .top-block {
+            background: $color-medium-gray;
+        }
+
+        .bottom-block {
+            li span {
+                color: $color-black;
+            }
+        }
+
+        &.quick-links {
+            .bottom-block {
+                li:before {
+                    background: $color-black;
+                }
+            }
+        }
+
+        &.quick-links-desc {
+            .bottom-block {
+                li {
+                    border-color: $color-black;
+                }
+            }
+        }
+    }
+
+    section.cta,
+    section.work-cta {
+        background: $color-medium-gray;
+    }
+
+    section.work-cta h2 span {
+        color: $color-black;
+    }
+
+    section.work-cta a.button {
+        background: $color-black;
+    }
+
+    section.quote .quote-text {
+        color: $color-black;
+    }
+
+    section.faqs .row {
+        .question {
+            background: $color-black;
+        }
+
+        &.active {
+            .question {
+                background: $color-black-light;
+            }
+        }
+    }
+
+    section.work-services .service-item {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    section.wide {
+        .text-col {
+            h2,
+            h3 {
+                -webkit-filter: grayscale(100);
+                filter: grayscale(100);
+            }
+        }
+
+        .img-bg {
+            -webkit-filter: grayscale(100);
+            filter: grayscale(100);
+        }
+    }
+
+    .property-stats {
+        .numbers {
+            -webkit-filter: grayscale(100);
+            filter: grayscale(100);
+            filter: brightness(0);
+        }
+    }
+
+    .property-features .feature-list li.checked:before {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    .property .social-share .btn-print {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    section.contact-form.work .heading h2 {
+        color: #000;
+    }
+
+    section.contact-form .bottom-section h4 {
+        color: #000;
+    }
+
+    section.contact-form .top-section {
+        background: $color-black;
+    }
+
+    section.contact-form.work .contact-info .wrapper-info {
+        border-color: $color-black;
+    }
+
+    section.contact-form .jcf-checkbox.jcf-checked {
+        background: $color-black url(images/icon-tick.png) center center no-repeat;
+        background-size: 10px 10px;
+    }
+
+    section.timeline .timeline-slider li h4 a {
+        background: $color-black;
+        color: #fff;
+
+        &:hover {
+            background: $color-black-light;
+            color: #fff;
+        }
+
+        &:after {
+            background: $color-black-light;
+        }
+    }
+
+    section.timeline .timeline-slider li i {
+        background: $color-black;
+    }
+
+    section.timeline .timeline-slider .timelinebg {
+        background: $color-black;
+    }
+
+    .panel-title a:after {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    section.timeline .timeline-slider .story .heading {
+        background: $color-black;
+    }
+
+    .tab-content .col1 .media.video a:after,
+    .panel-body .col1 .media.video a:after {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    .search-panel .advanced-search-opener {
+        color: $color-black;
+
+        &:after {
+            border-color: $color-black;
+        }
+    }
+
+    .accomodation-search-form .form-group.property .form-type-checkbox .jcf-checkbox {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    .accomodation-search-form .form-group.bedrooms .form-type-radio label {
+        color: $color-black;
+    }
+
+    .accomodation-search-form .form-group.bedrooms .form-type-radio .jcf-radio.jcf-checked ~ label {
+        background: $color-black;
+        color: #fff;
+    }
+
+    .accomodation-search-form .form-group.property-req .jcf-checkbox.jcf-checked {
+        background: $color-black url(images/icon-tick.png) no-repeat;
+        background-size: 9px 8px;
+        background-position: center;
+    }
+
+    section.latest-news .post-content .maincontent-post h3 {
+        color: #000;
+    }
+
+    section.latest-news .post-content .maincontent-post p.quote:before {
+        background: $color-black-light;
+    }
+
+    section.latest-news .post-content .maincontent-post a {
+        color: $color-black-light;
+    }
+
+    section.latest-news .post-content .image-post.video a {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100);
+    }
+
+    .news-search-form .form-item-category .jcf-select {
+        background: $color-medium-gray;
+    }
+
+    .pager ul li > a:hover,
+    .pager ul li.pager__item.is-active > a,
+    .view-id-articles_overview .pager ul li a:hover {
+        background: $color-black;
+    }
+
+    section.services-icons ul.icons.work li span {
+        color: $color-black;
+    }
+
+    section.team .profile-info h4,
+    .team-detail .team-detail-content .profile-info h2 {
+        color: #000;
+    }
+
+    .nav-tabs > li.active > a,
+    .nav-tabs > li.active > a:focus,
+    .nav-tabs > li.active > a:hover {
+        color: $color-black;
+    }
+
+    .nav-tabs > li.active::before {
+        background: $color-black;
+    }
+
+    .homebanner--section {
+        &::before {
+            background-color: $color-black;
+        }
+
+        .homebanner-slider-navwrap .slidenav-prev,
+        .homebanner-slider-navwrap .slidenav-next {
+            background-color: #fff !important;
+
+            &::before {
+                filter: brightness(0);
+            }
+        }
+    }
+
+    footer {
+        a {
+            color: #fff;
+
+            &:hover,
+            &:focus {
+                color: $color-medium-gray;
+            }
+        }
+
+        .newsletter-block {
+            background: $color-gray;
+        }
+
+        .newsletter-form {
+            input[type="submit"] {
+                &:hover,
+                &:focus {
+                    background: $color-black-light;
+                    color: #fff;
+                }
+            }
+        }
+
+        .cols .col1 .socials li a {
+            -webkit-filter: grayscale(100);
+            filter: grayscale(100);
+        }
+    }
+
+    div#pagination-container {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100) !important;
+    }
+
+    .header.theme-light .navul > li .megamenu {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100) !important;
+    }
+
+    .header.theme-light .header-myaccount .custom-dropdown-list ul {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100) !important;
+    }
+
+    .woocommerce-cart .entry-content, .woocommerce-checkout .entry-content, .woocommerce-account.order-pages .entry-content {
+        max-width: 1290px;
+        padding: 26px 36px !important;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .woocommerce-checkout .woocommerce-form-login-toggle .woocommerce-info {
+        -webkit-filter: grayscale(100);
+        filter: grayscale(100) !important;
+    }
+
+    .thwmscf-wrapper .thwmscf-buttons .button-prev {
+        color: #fff;
+        background-color: #333;
+    }
+
+    .thwmscf-wrapper .thwmscf-buttons .button-next {
+        color: #fff;
+        background-color: #333;
+    }
+}
+
+body.high-contrast .woocommerce-account .woocommerce-MyAccount-content p a {
+    color: #000000 !important;
+    text-decoration: underline;
+}

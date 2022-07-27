@@ -1,0 +1,73 @@
+# Copyright (C) 2018 WooCommerce MultiStep Checkout
+# This file is distributed under the same license as the WooCommerce MultiStep Checkout package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - WooCommerce MultiStep Checkout - Development (trunk)\n"
+"Report-Msgid-Bugs-To: support@themehigh.com\n"
+"POT-Creation-Date: 2018-01-04 23:33+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-01-24 23:35+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+
+msgid "ThemeHigh"
+msgstr ""
+
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr ""
+
+msgid "Your changes were saved."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "WooCommerce MultiStep Checkout Editor breaks up the usual WooCommerce checkout form into multiple steps for a friendlier user experience."
+msgstr ""
+
+msgid "Woo MultiStep Checkout"
+msgstr ""
+
+msgid "You must be logged in to checkout."
+msgstr ""
+
+msgid "WooCommerce"
+msgstr ""
+
+msgid "Multistep Checkout"
+msgstr ""
+
+msgid "Woo Multistep Checkout"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Billing details"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Shipping details"
+msgstr ""
+
+msgid "Your order"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Invalid or data missing in the required field(s)"
+msgstr ""
+
+msgid "Back to cart"
+msgstr ""

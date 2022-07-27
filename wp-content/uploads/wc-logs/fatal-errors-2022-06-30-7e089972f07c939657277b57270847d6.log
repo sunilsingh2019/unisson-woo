@@ -1,0 +1,4 @@
+2022-06-30T01:04:43+00:00 CRITICAL Cannot redeclare load_scripts() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:371) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/scripts.php on line 5
+
+2022-06-30T01:04:43+00:00 CRITICAL Cannot redeclare load_scripts() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/functions.php:371) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/scripts.php on line 5
+

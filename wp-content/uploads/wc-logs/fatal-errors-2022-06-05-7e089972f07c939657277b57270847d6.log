@@ -1,0 +1,4 @@
+2022-06-05T23:35:47+00:00 CRITICAL Cannot redeclare person_details() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:5) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field-test.php on line 5
+
+2022-06-05T23:35:48+00:00 CRITICAL Cannot redeclare person_details() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field.php:5) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-custom-checkout-field-test.php on line 5
+

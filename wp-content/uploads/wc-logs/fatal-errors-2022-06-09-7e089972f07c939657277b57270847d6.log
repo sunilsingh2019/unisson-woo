@@ -1,0 +1,152 @@
+2022-06-09T01:21:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(160)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 160, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T01:24:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(162)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 162, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T01:24:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(164)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 164, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T01:25:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(166)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 166, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:02:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(172)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 172, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:05:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(176)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 176, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:07:38+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(180)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 180, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:11:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(184)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 184, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:12:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(188)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 188, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:13:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(192)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 192, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:14:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(196)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 196, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:44:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(200)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 200, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:46:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(204)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 204, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:50:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(212)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 212, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T03:51:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(216)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 216, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T22:51:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(220)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 220, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T22:53:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(224)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 224, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T23:09:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(232)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 232, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+
+2022-06-09T23:13:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function email_order_custom_field(), 1 passed in /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php on line 309 and exactly 4 expected in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(309): email_order_custom_field(240)
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/emails/email-order-items.php(68): do_action('woocommerce_ord...', 240, Object(WC_Order_Item_Product), Object(Automattic\WooCommerce\Admin\Overrides\Order), false)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345):  in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/custom-field-in-email.php on line 3
+

@@ -1,0 +1,145 @@
+2022-06-01T00:37:28+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:72
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 72
+
+2022-06-01T00:38:49+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:71
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 71
+
+2022-06-01T00:39:51+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:71
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 71
+
+2022-06-01T00:41:14+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:74
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 74
+
+2022-06-01T00:41:18+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:74
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 74
+
+2022-06-01T00:41:19+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:74
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 74
+
+2022-06-01T00:41:19+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:74
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 74
+
+2022-06-01T00:41:20+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:74
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block)) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 74
+
+2022-06-01T01:56:14+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:179
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/s in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 179
+
+2022-06-01T01:56:41+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:181
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/s in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 181
+
+2022-06-01T01:59:23+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:186
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/s in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 186
+
+2022-06-01T02:02:49+00:00 CRITICAL Uncaught Error: Call to a member function product_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:184
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Us in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 184
+
+2022-06-01T02:03:57+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:183
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 / in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 183
+
+2022-06-01T02:09:05+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:183
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/s in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 183
+
+2022-06-01T02:14:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/suni in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 3
+
+2022-06-01T02:15:50+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/suni in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 3
+
+2022-06-01T02:24:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php:3
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/register-module.php(112): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(424): aipm_acf_module_template_block_render_callback(Array, '', false, 168, Object(WP_Block), Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(367): acf_render_block(Array, '', false, 168, Object(WP_Block), Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/advanced-custom-fields-pro/pro/blocks.php(328): acf_rendered_block(Array, '', false, 168, Object(WP_Block))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-block.php(255): acf_render_block_callback(Array, '', Object(WP_Block))
+#5 /Users/suni in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/template-parts/block/content-shop-module.php on line 3
+

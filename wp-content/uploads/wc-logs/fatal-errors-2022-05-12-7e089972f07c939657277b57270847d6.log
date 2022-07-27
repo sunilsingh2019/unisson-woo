@@ -1,0 +1,280 @@
+2022-05-12T23:37:03+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_corporate_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:239
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 239
+
+2022-05-12T23:41:07+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:213
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 213
+
+2022-05-12T23:45:31+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:214
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 214
+
+2022-05-12T23:46:49+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:191
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 191
+
+2022-05-12T23:46:55+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:191
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 191
+
+2022-05-12T23:47:34+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:191
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 191
+
+2022-05-12T23:48:25+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:48:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:49:45+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:50:16+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:50:16+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:50:31+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:50:51+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:52:27+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:52:31+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:52:42+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:185
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 185
+
+2022-05-12T23:54:41+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:54:41+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:54:43+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_administrator_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:56:41+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:56:44+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:56:45+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:40+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:58:45+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:00+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:04+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:05+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:05+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:05+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:07+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+
+2022-05-12T23:59:20+00:00 CRITICAL Uncaught Error: Call to undefined function sfprice_support_applicable() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:124
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): sfprice_woocommerce_get_price('50', Object(WC_Product_Simple))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(233): WP_Hook->apply_filters('50', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(142): apply_filters_ref_array('woocommerce_get...', Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-deprecated-filter-hooks.php(129): WC_Deprecated_Filter_Hooks->trigger_hook('woocommerce_get...', Array)
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-deprecated-hooks.php(75): WC_Deprecated_Filter_Hooks->handle_deprecated_hook('woocommerce_pro...', 'woo in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 124
+

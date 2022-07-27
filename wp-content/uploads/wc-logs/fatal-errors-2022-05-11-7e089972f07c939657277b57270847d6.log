@@ -1,0 +1,190 @@
+2022-05-11T00:05:53+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unissondisability-w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T00:06:40+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unissondisability-w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T00:06:41+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unissondisability-w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T00:08:14+00:00 CRITICAL Uncaught Error: Call to a member function get_order_item_totals() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:18
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unisson in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 18
+
+2022-05-11T00:08:53+00:00 CRITICAL Uncaught Error: Call to a member function get_order_item_totals() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:18
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unisson in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 18
+
+2022-05-11T00:11:11+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:22
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unissondisability-w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 22
+
+2022-05-11T00:56:58+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php:22
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/Sites/unissondisability-w in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 22
+
+2022-05-11T02:07:26+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T02:07:26+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T02:07:28+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T02:07:28+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/functions.php on line 21
+
+2022-05-11T05:07:41+00:00 CRITICAL Cannot redeclare filter_checkout_cart_item_quantity() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:13) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 13
+
+2022-05-11T05:13:09+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:15
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 15
+
+2022-05-11T05:19:11+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:21
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 21
+
+2022-05-11T05:42:02+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:24
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 24
+
+2022-05-11T05:42:27+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:25
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 25
+
+2022-05-11T05:42:29+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:25
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 25
+
+2022-05-11T05:58:30+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 65
+
+2022-05-11T05:58:30+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 65
+
+2022-05-11T05:58:31+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 65
+
+2022-05-11T06:01:46+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 114
+
+2022-05-11T06:02:09+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 65
+
+2022-05-11T06:13:51+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:15
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 15
+
+2022-05-11T06:42:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:13
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 13
+
+2022-05-11T06:50:06+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:15
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 15
+
+2022-05-11T07:32:54+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 111
+
+2022-05-11T07:32:54+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 111
+
+2022-05-11T07:34:55+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 111
+
+2022-05-11T07:34:55+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 111
+
+2022-05-11T07:35:54+00:00 CRITICAL syntax error, unexpected end of file in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 110
+
+2022-05-11T23:47:07+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php:12
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(307): person_details(Object(WC_Checkout))
+#1 /Users/sunil/Sites/unissondisability-woo/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/woocommerce/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(303): wc_get_template('checkout/form-s...', Array)
+#6 /Users/sunil/S in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/storefrontchildtheme/inc/register-custom-checkout-field.php on line 12
+

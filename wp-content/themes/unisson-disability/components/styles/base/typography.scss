@@ -1,0 +1,128 @@
+// All the Typography settings here
+html {
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: $font;
+
+    &.font-dyslexic {
+        font-family: $font-dyslexic;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+}
+
+.heading {
+    font-size: 4.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+    @media (max-width: 991px) {
+        font-size: 3.8rem;
+    }
+
+    &-text {
+        font-size: 2.4rem;
+        font-weight: 700;
+        margin-bottom: 21px;
+
+        @media (max-width: 991px) {
+            font-size: 2.2rem;
+            line-height: normal;
+        }
+    }
+
+    &-title {
+        color: $color-purple;
+        font-size: 3rem;
+        font-weight: 700;
+        line-height: 36px;
+        text-transform: uppercase;
+
+        @media (max-width: 767px) {
+            font-size: 1.6rem;
+            line-height: normal;
+        }
+    }
+
+    &-date {
+        color: $color-black;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+
+    &-location {
+        color: $color-orange;
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
+}
+
+p {
+    font-size: 1.8rem;
+    line-height: 27px;
+    margin: 0 0 25px;
+
+    strong {
+        font-weight: 500;
+    }
+}
+
+strong,
+b {
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    margin-bottom: 35px;
+    padding: 0;
+
+    li {
+        position: relative;
+        padding-left: 12px;
+        font-size: 1.8rem;
+        line-height: 27px;
+        margin-bottom: 3px;
+    }
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.font-weight-light {
+    font-weight: 300;
+}
+
+.list {
+    li {
+        &::before {
+            content: "";
+            position: absolute;
+            top: 11px;
+            left: 0;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background-color: $color-black;
+        }
+    }
+}

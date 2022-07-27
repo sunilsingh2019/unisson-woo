@@ -1,0 +1,13 @@
+2022-05-27T00:40:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_product_variation_price() in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php:108
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template.php(772): require()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/sunil/Si...', false)
+#2 /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php(45): wc_get_template_part('content', 'single-product')
+#3 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include('/Users/sunil/Si...')
+#4 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#5 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#6 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/content-single-product.php on line 108
+
+2022-05-27T01:28:56+00:00 CRITICAL Cannot redeclare custom_override_checkout_fields() (previously declared in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/remove_checkout_fields.php:4) in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/inc/remove_checkout_fields.php on line 27
+

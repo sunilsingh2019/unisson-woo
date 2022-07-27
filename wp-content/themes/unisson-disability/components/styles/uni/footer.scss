@@ -1,0 +1,226 @@
+.footer {
+    &-top {
+        padding-top: 156px;
+        padding-bottom: 126px;
+
+        @media (max-width: 991px) {
+            padding-top: 160px;
+            padding-bottom: 50px;
+        }
+    }
+
+    &-bot {
+        padding-bottom: 130px;
+
+        @media (max-width: 991px) {
+            padding-bottom: 80px;
+        }
+    }
+
+    .footer-top-list {
+        @media (max-width: 991px) {
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 37px;
+        }
+
+        li {
+            color: $color-black;
+            font-size: 2rem;
+            font-weight: 500;
+            margin-bottom: 24px;
+            padding-left: 0;
+
+            @media (max-width: 991px) {
+                font-size: 1.6rem;
+                width: 50%;
+                margin-bottom: 20px;
+            }
+
+            &:not(:last-child) {}
+
+            a:hover {
+                color: $color-purple;
+            }
+        }
+    }
+
+    .footer-call {
+        display: block;
+        color: $color-purple;
+        font-size: 3.2rem;
+        font-weight: 500;
+        margin-bottom: 24px;
+
+        @media (max-width: 991px) {
+            font-size: 2.4rem;
+        }
+    }
+
+    .info {
+        color: $color-black;
+        font-size: 2rem;
+        line-height: 24px;
+        font-weight: 500;
+        margin-bottom: 24px;
+
+        @media (max-width: 991px) {
+            font-size: 1.6rem;
+        }
+
+        &:not(:last-child) {}
+
+        span {
+            display: block;
+        }
+    }
+
+    .lets-connect {
+        @media (max-width: 991px) {
+            margin-top: 20px;
+        }
+
+        h4 {
+            color: $color-purple;
+            font-size: 2rem;
+            font-weight: 500;
+            margin-bottom: 39px;
+
+            @media (max-width: 991px) {
+                margin-bottom: 16px;
+            }
+        }
+
+        .social-icons {
+            display: flex;
+            flex-wrap: wrap;
+
+            a {
+                display: block;
+                width: 60px;
+                margin-bottom: 10px;
+
+                @media (max-width: 991px) {
+                    width: 50px;
+                }
+
+                &:not(:last-child) {
+                    margin-right: 10px;
+                }
+
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    &-logos {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        margin-bottom: 24px;
+    }
+
+    &-unisson {
+        @media (max-width: 991px) {
+            margin-bottom: 70px;
+        }
+
+        img {
+            height: 57px;
+
+            @media (max-width: 991px) {
+                height: 41px;
+            }
+        }
+    }
+
+    &-ndis {
+        display: flex;
+        align-items: center;
+
+        @media (max-width: 991px) {
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            width: 82px;
+            margin-right: 28px;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .text {
+            max-width: 142px;
+            font-size: 2rem;
+            font-weight: 500;
+            margin-bottom: 0;
+        }
+    }
+
+    .copyright {
+        color: $color-purple;
+        font-size: 2rem;
+        font-weight: 500;
+        margin: 0;
+
+        @media (max-width: 991px) {
+            font-size: 1.6rem;
+        }
+    }
+
+    .footer-bot-text {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        @media (max-width: 991px) {
+            flex-flow: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+    }
+
+    .footer-bot-list {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0;
+
+        @media (max-width: 991px) {
+            order: -1;
+            flex-flow: column;
+            align-items: flex-start;
+            margin-bottom: 78px;
+        }
+
+        li {
+            font-size: 2rem;
+            font-weight: 500;
+            color: $color-black-light;
+            margin-bottom: 0;
+            padding-left: 0;
+
+            @media (max-width: 991px) {
+                font-size: 1.6rem;
+            }
+
+            &:not(:last-child) {
+                margin-right: 47px;
+
+                @media (max-width: 991px) {
+                    margin-right: 0;
+                    margin-bottom: 15px;
+                }
+            }
+
+            a {
+                &:hover {
+                    color: $color-purple;
+                }
+            }
+        }
+    }
+}

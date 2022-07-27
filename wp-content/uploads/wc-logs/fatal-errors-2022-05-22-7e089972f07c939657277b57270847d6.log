@@ -1,0 +1,8 @@
+2022-05-22T23:55:31+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_attachment_ids() on string in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php:32
+Stack trace:
+#0 /Users/sunil/Sites/unissondisability-woo/wp-includes/template-loader.php(106): include()
+#1 /Users/sunil/Sites/unissondisability-woo/wp-blog-header.php(19): require_once('/Users/sunil/Si...')
+#2 /Users/sunil/Sites/unissondisability-woo/index.php(17): require('/Users/sunil/Si...')
+#3 {main}
+  thrown in /Users/sunil/Sites/unissondisability-woo/wp-content/themes/unisson-disability/woocommerce/single-product.php on line 32
+
